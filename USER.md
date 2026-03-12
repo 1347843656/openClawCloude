@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** 老大
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Shanghai (GMT+8)
-- **Notes:**
+- **Notes:** 肖嘉俊是 Owner
 
 ## Context
 
