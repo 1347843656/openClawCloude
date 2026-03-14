@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-65935] 作业都完成了，但是看完成度只有1</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-65935]&nbsp;<a href="https://jira.51tyty.com/browse/GD-65935">作业都完成了，但是看完成度只有1</a>
+            <span class="subText">
+               创建日期: 07/&#19968;&#26376;/26                   &nbsp;已更新: 07/&#19968;&#26376;/26
+
+                                                    &nbsp;已解决: 07/&#19968;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="app"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D25903%20ORDER%20BY%20priority%20ASC"
+            >app</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="fytian" id="word_reporter_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="xxgu" id="word_assignee_xxgu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=xxgu">顾学新</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-454885-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            10分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    userDevices.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-454885-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-454885-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-454885-value" class="value" bgcolor="#ffffff" width="80%">    lykida</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-454885-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="hxu" id="user_cf_hxu">许慧</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-454885-value" class="value" bgcolor="#ffffff" width="80%">      2026/01/07
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-454885-value" class="value" bgcolor="#ffffff" width="80%">      13556130684
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-454885-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-454885-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-454885-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：lykida <br/>
+账号：13556130684 <br/>
+lykida老师反馈学生13556130684的作业都完成了，但是看完成度只有1，麻烦看下<br/>
+<br/>
+GET /social/services/rest/achievements/UserRanking/all/task/all?serino=365&amp;queryDate=2026-01-07&amp;startPos=0&amp;endPos=9 HTTP/1.1<br/>
+Host: oz.51tyty.com<br/>
+DeviceType: 0<br/>
+AppType: 6<br/>
+industryType: Education<br/>
+DeviceUniqueId: ffffffff-ea56-15d5-ffff-ffffae95e5c6-com.lingshi.inst.klxt-ASUS_I003DD<br/>
+InstId: 1061548<br/>
+serverId: 107<br/>
+uc: TYTY_DEBUG_CHANNEL<br/>
+AppVersion: 5.2.66.210408<br/>
+FromAppName: APP<br/>
+username: lykida13556130684<br/>
+lan: ch<br/>
+Requestuniqueid: 45711_1061548_1767757261488_363<br/>
+timeZone: GMT+08<br/>
+deviceCategory: PAD<br/>
+token: 45711:1830829205:2ea1967e-194e-46b9-aecf-7e7b18640666:362ffd75d0e0d80713edc9d159855670:107v<br/>
+Content-Type: application/json<br/>
+Connection: close<br/>
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 9; ASUS_I003DD Build/PI)<br/>
+Accept-Encoding: gzip
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-365173"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="fytian" id="word_commented_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">07/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-365173"><td bgcolor="#ffffff">
+            学员随便一天的作业都没做
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:13:52 CST 2026。
+
+</body>
+</html>

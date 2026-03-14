@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-65412] 快速点评中看不到学员的任务</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-65412]&nbsp;<a href="https://jira.51tyty.com/browse/GD-65412">快速点评中看不到学员的任务</a>
+            <span class="subText">
+               创建日期: 29/&#21313;&#20108;&#26376;/25                   &nbsp;已更新: 05/&#19968;&#26376;/26
+
+                                                    &nbsp;已解决: 05/&#19968;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="app"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D25903%20ORDER%20BY%20priority%20ASC"
+            >app</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jhzhang1" id="word_reporter_jhzhang1" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jhzhang1">张家惠</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jjxiao" id="word_assignee_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-452157-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            2分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    mmexport1767014599782.jpg &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-452157-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-452157-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-452157-value" class="value" bgcolor="#ffffff" width="80%">    yiyiab</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-452157-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="jluo" id="user_cf_jluo">罗婕</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-452157-value" class="value" bgcolor="#ffffff" width="80%">      2025-12-29
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-452157-value" class="value" bgcolor="#ffffff" width="80%">      18211230821
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-452157-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-452157-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-452157-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：yiyiab<br/>
+账号：18211230821<br/>
+描述：yiyiab 反馈 老师账号18211230821 快速点评当中看不到ParisYang这个学员的任务，筛选当中也没有，麻烦查看一下<br/>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-364470"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="mffeng" id="word_commented_mffeng" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=mffeng">冯猛飞</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-364470"><td bgcolor="#ffffff">
+            GET /social/services/rest/assignment/Answers/Comment?serino=57&amp;queryScope=student&amp;startPos=0&amp;endPos=999 HTTP/1.1<br/>
+Host: if.51tyty.com<br/>
+DeviceType: 0<br/>
+AppType: 6<br/>
+industryType: Education<br/>
+DeviceUniqueId: ffffffff-d3e3-ce41-ffff-ffffe3785b25-com.lingshi.inst.klxt-mayfly<br/>
+InstId: 261872<br/>
+serverId: 27<br/>
+uc: lskj<br/>
+AppVersion: 5.2.65.210398<br/>
+FromAppName: APP<br/>
+username: 18211230821<br/>
+lan: ch<br/>
+Requestuniqueid: 56247_261872_1767597273238_57<br/>
+timeZone: GMT+08<br/>
+deviceCategory: PAD<br/>
+token: 56247:1830669161:a831c505-fa78-4742-9792-cafaf028e7dd:91fd2bfa35344d1aa4055d377396010f:27v<br/>
+Content-Type: application/json<br/>
+Connection: close<br/>
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; 2206123SC Build/b925ed9.0)<br/>
+Accept-Encoding: gzip<br/>
+<br/>
+
+        </td></tr>
+                <tr id="comment-header-364471"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="mffeng" id="word_commented_mffeng" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=mffeng">冯猛飞</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-364471"><td bgcolor="#ffffff">
+            查看快速点评未展示学员信息
+        </td></tr>
+                <tr id="comment-header-364525"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jhzhang1" id="word_commented_jhzhang1" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jhzhang1">张家惠</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-364525"><td bgcolor="#ffffff">
+            18211230821老师是教务角色可见机构全部的88个班级,但老师只在55个班级, ParisYang学员在37个班级 <br/>
+18211230821老师和ParisYang学员共同在21个班级,其中有16个班级18211230821老师和ParisYang学员没有共同存在<br/>
+18211230821老师布置任务到学员时从Raz D-J（5班）班级选择的ParisYang学员,而Raz D-J（5班）恰好是老师和学员未共同存在的班级,快速点评列表逻辑是老师可见他所在班级内发布的任务<br/>
+已联系运营告知机构把18211230821老师添加到Raz D-J（5班）解决这种情况
+        </td></tr>
+                <tr id="comment-header-364551"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jhzhang1" id="word_commented_jhzhang1" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jhzhang1">张家惠</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-364551"><td bgcolor="#ffffff">
+            逻辑如此 已告知运营
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:14:10 CST 2026。
+
+</body>
+</html>

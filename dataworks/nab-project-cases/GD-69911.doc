@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-69911] 版本是最新的，就是无法扫码登录</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-69911]&nbsp;<a href="https://jira.51tyty.com/browse/GD-69911">版本是最新的，就是无法扫码登录</a>
+            <span class="subText">
+               创建日期: 26/&#20108;&#26376;/26                   &nbsp;已更新: 27/&#20108;&#26376;/26
+
+                                                    &nbsp;已解决: 26/&#20108;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="Flutter"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D31800%20ORDER%20BY%20priority%20ASC"
+            >Flutter</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="fytian" id="word_reporter_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="zltan" id="word_assignee_zltan" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zltan">谭滋利</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-467100-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            登录                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            10分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-3.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    video_1772085996.mp4 &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    video_1772085996.mp4 &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    企业微信截图_1772085922859.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    企业微信截图_17720868432338.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>问题链接:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>关联</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                关联
+            </td>
+            <td>
+                <a href="https://jira.51tyty.com/browse/GD-70059">
+                     <strike>GD-70059</strike>                 </a>
+            </td>
+            <td>
+                扫码无法成功登录【GD-69911】
+            </td>
+            <td>
+                关闭
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-467100-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-467100-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-467100-value" class="value" bgcolor="#ffffff" width="80%">    yybbh</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-467100-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="dfliu" id="user_cf_dfliu">刘丹凤</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-467100-value" class="value" bgcolor="#ffffff" width="80%">      2/26
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-467100-value" class="value" bgcolor="#ffffff" width="80%">      18190871963 
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-467100-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-467100-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-467100-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            yybbh  这个机构老师版本是最新的，就是无法扫码登录，我自己也试过是可以的。
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-377357"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="czchen" id="word_commented_czchen" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=czchen">陈畴竹</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377357"><td bgcolor="#ffffff">
+            apiLevel:error<br/>
+appType:4<br/>
+appVersion:5.2.92.222878<br/>
+appVersionInt:50292222878<br/>
+deviceDesc: ALN-AL00:HUAWEI:HWALN os :31<br/>
+deviceId:00000000-60e7-1a21-0000-000000000000-com.culture.sub.air-HWALN<br/>
+deviceType:android<br/>
+instGroup:yybbh<br/>
+instId:255039<br/>
+logClass:ApiLog<br/>
+mobile:18190871963<br/>
+request: {}<br/>
+LoginUserArgu: {}<br/>
+qrCode:&quot;LSKJ:4D7BF2E3B7FAC605779F58D26D104FAF-IG:yybbh&quot;<br/>
+requestHeader:{AppVersion: 5.2.92.222878, DeviceType: 0, lan: ch, token: 378477:1835158765:07a5ef05-659f-45d5-aa19-463021ec7a1a:794cfa405910efbec2a3c0480c4aa8a6:26v, serverId: 26, AppType: 4, AppScope: , InstId: 255039, IG: yybbh, DeviceUniqueId: 7c30e73c-a6a9-4339-87f0-da95a2cb8c4a_com.lingshi.flutter.app, FromAppName: Android, username: adminyybbh, smartEduKey: , timeZone: GMT+08, deviceCategory: MOBILE, hostappinstid: }<br/>
+requestMethod:POST<br/>
+response: {}<br/>
+code:-1001<br/>
+message:&quot;登录失效，请重新登录&quot;<br/>
+subject:english<br/>
+time:02-26 14:19:37:899<br/>
+token:378477:1835158765:07a5ef05-659f-45d5-aa19-463021ec7a1a:794cfa405910efbec2a3c0480c4aa8a6:26v<br/>
+uc:yybbh<br/>
+url:<a href="https://gf.51tyty.com/user/services/rest/user/second/login?serino=57">https://gf.51tyty.com/user/services/rest/user/second/login?serino=57</a><br/>
+userId:378477<br/>
+userName:adminyybbh
+        </td></tr>
+                <tr id="comment-header-377358"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="czchen" id="word_commented_czchen" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=czchen">陈畴竹</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377358"><td bgcolor="#ffffff">
+            需要后端协助定位下原因
+        </td></tr>
+                <tr id="comment-header-377619"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="fytian" id="word_commented_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377619"><td bgcolor="#ffffff">
+            需要pc端排查一下生成二维码的时候头信息里面的ig是否必传，目前测试下来头信息不传ig扫码能正常登录，头信息里面传ig扫码登录时会提示登录失效
+        </td></tr>
+                <tr id="comment-header-377639"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="ywu" id="word_commented_ywu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=ywu">吴阳明</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377639"><td bgcolor="#ffffff">
+            二维码生成的字符串是通过服务端创建得来的，客户端并不知道这个字符串本身是否正确。理论上如果IG不需要，服务端是可以忽略的来生成字符串给客户端，所以更可能的是服务端在校验的时候出现问题了。
+        </td></tr>
+                <tr id="comment-header-377653"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="hsqi" id="word_commented_hsqi" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=hsqi">戚海生</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377653"><td bgcolor="#ffffff">
+            只要是机构包都会有IG，已跟对应的开发沟通过，后端排查下
+        </td></tr>
+                <tr id="comment-header-377678"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zltan" id="word_commented_zltan" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zltan">谭滋利</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377678"><td bgcolor="#ffffff">
+            调用 <a href="https://gf.51tyty.com/user/services/rest/user/second/login?serino=57">https://gf.51tyty.com/user/services/rest/user/second/login?serino=57</a>  接口时 扫码端的token 已经失效
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:12:01 CST 2026。
+
+</body>
+</html>

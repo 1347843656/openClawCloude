@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-68538] cstbyy学员18238879260学员没有操作记录，看bug评论最下方</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-68538]&nbsp;<a href="https://jira.51tyty.com/browse/GD-68538">cstbyy学员18238879260学员没有操作记录，看bug评论最下方</a>
+            <span class="subText">
+               创建日期: 09/&#20108;&#26376;/26                   &nbsp;已更新: 02/&#19977;&#26376;/26
+
+                                                    &nbsp;已解决: 26/&#20108;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="xsqi" id="word_reporter_xsqi" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=xsqi">齐先送</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="zjliu" id="word_assignee_zjliu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zjliu">刘佐军</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-464367-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            1日 5分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    image-2026-02-09-14-36-06-196.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    Snipaste_2026-02-10_17-04-33.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    Snipaste_2026-02-10_17-10-14.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    购买商品后变更有效期数据.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-464367-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-464367-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-464367-value" class="value" bgcolor="#ffffff" width="80%">    cstbyy</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-464367-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="qpeng" id="user_cf_qpeng">彭乾</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-464367-value" class="value" bgcolor="#ffffff" width="80%">      2026.2.9
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-464367-value" class="value" bgcolor="#ffffff" width="80%">      18238879260
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-464367-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-464367-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-464367-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            cstbyy学员18238879260家长只买了一张会员时长的商品，时长是7天，但是买了之后却可以使用14天<br/>
+订单：P2026020911341018305<br/>
+期望：7天<br/>
+实际：14天<br/>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-374507"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="sgwang" id="word_commented_sgwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=sgwang">王世光</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374507"><td bgcolor="#ffffff">
+            url:<a href="http://ds.51tyty.com/user/services/rest/transaction/Product">http://ds.51tyty.com/user/services/rest/transaction/Product</a><br/>
+header:[&quot;Content-Type:application\/json&quot;,&quot;FromAppName:market&quot;,&quot;DeviceUniqueId:lingshikeji&quot;,&quot;DeviceType:3&quot;,&quot;AppType:6&quot;,&quot;serverId:5&quot;,&quot;InstId:43831&quot;,&quot;token:705696:1720690890:2ac69139-3ab0-4ebe-b20a-7bbad05fbc94:09e05be3d366766bf81992a33250bdc6:1001v&quot;]<br/>
+params:{&quot;ProductArgu&quot;:{&quot;productId&quot;:&quot;XCX2042174&quot;,&quot;title&quot;:&quot;7天APP阅读体验卡&quot;,&quot;desc&quot;:&quot;&quot;,&quot;price&quot;:&quot;2.99&quot;,&quot;productType&quot;:&quot;subscriptions&quot;,&quot;imgUrl&quot;:&quot;https:\/\/cdnws.51tyty.com\/wechat\/marketing\/upload\/166897\/12567\/da2c31753fa3e2052de0e3ab6062677d.png&quot;,&quot;duration&quot;:7}}
+        </td></tr>
+                <tr id="comment-header-374658"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">10/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374658"><td bgcolor="#ffffff">
+            评论中的接口是创建商品的接口。
+        </td></tr>
+                <tr id="comment-header-374668"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="cyzhang" id="word_commented_cyzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=cyzhang">张程莹</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">10/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374668"><td bgcolor="#ffffff">
+            {&quot;traceid&quot;:&quot;0ee94f4db3e79c0e509d00526a4eee93&quot;,&quot;seq&quot;:&quot;13&quot;,&quot;syncOrderRequest&quot;:&quot;\nurl:<a href="http://ds.51tyty.com/user/services/rest/transaction/OrderDone">http://ds.51tyty.com/user/services/rest/transaction/OrderDone</a>\nheader:[\&quot;Content-Type:application\\/json\&quot;,\&quot;FromAppName:market\&quot;,\&quot;DeviceUniqueId:lingshikeji\&quot;,\&quot;DeviceType:3\&quot;,\&quot;AppType:6\&quot;,\&quot;serverId:5\&quot;,\&quot;InstId:43831\&quot;,\&quot;token:705696:1720690890:2ac69139-3ab0-4ebe-b20a-7bbad05fbc94:09e05be3d366766bf81992a33250bdc6:1001v\&quot;]\nparams:{\&quot;OrderDoneArgu\&quot;:{\&quot;authProvider\&quot;:\&quot;Weixin\&quot;,\&quot;payVendor\&quot;:\&quot;weixin\&quot;,\&quot;productType\&quot;:\&quot;subscriptions\&quot;,\&quot;productIds\&quot;:[\&quot;XCX2042174\&quot;],\&quot;partnerOrderId\&quot;:\&quot;P2026020911341018305\&quot;,\&quot;userId\&quot;:845359,\&quot;openId\&quot;:\&quot;oQiIF7UBBjeta9aPrgQIYE-pX-Oo\&quot;}}&quot;,&quot;client_request_url&quot;:&quot;<a href="https://wechat.51tyty.com/marketing/addons/yb_shopv2_video/core/notify_wx.php">https://wechat.51tyty.com/marketing/addons/yb_shopv2_video/core/notify_wx.php</a>&quot;,&quot;host&quot;:&quot;wechat.51tyty.com&quot;,&quot;wxapp_do&quot;:&quot;&quot;,&quot;path&quot;:&quot;//&quot;,&quot;useragent&quot;:&quot;Mozilla/4.0&quot;,&quot;__level__&quot;:&quot;INFO&quot;,&quot;useTime&quot;:&quot;2525.377&quot;,&quot;useMem&quot;:&quot;0.6745&quot;,&quot;__pack_meta__&quot;:&quot;1|MTc2NzU1NzU4NTIyNTkwNzg3Mw==|1|0&quot;,&quot;__topic__&quot;:&quot;&quot;,&quot;__source__&quot;:&quot;121.51.58.173&quot;,&quot;__tag__:__client_ip__&quot;:&quot;122.51.85.135&quot;,&quot;__tag__:__receive_time__&quot;:&quot;1770608075&quot;,&quot;__time__&quot;:&quot;1770608075&quot;}<br/>
+{&quot;traceid&quot;:&quot;f61d4efd0e25ffc623fc956ad8aba3f3&quot;,&quot;seq&quot;:&quot;11&quot;,&quot;syncGoodsRequest&quot;:&quot;\nurl:<a href="http://ds.51tyty.com/user/services/rest/transaction/Product">http://ds.51tyty.com/user/services/rest/transaction/Product</a>\nheader:[\&quot;Content-Type:application\\/json\&quot;,\&quot;FromAppName:market\&quot;,\&quot;DeviceUniqueId:lingshikeji\&quot;,\&quot;DeviceType:3\&quot;,\&quot;AppType:6\&quot;,\&quot;serverId:5\&quot;,\&quot;InstId:43831\&quot;,\&quot;token:705696:1720690890:2ac69139-3ab0-4ebe-b20a-7bbad05fbc94:09e05be3d366766bf81992a33250bdc6:1001v\&quot;]\nparams:{\&quot;ProductArgu\&quot;:{\&quot;productId\&quot;:\&quot;XCX2042174\&quot;,\&quot;title\&quot;:\&quot;7天APP阅读体验卡\&quot;,\&quot;desc\&quot;:\&quot;\&quot;,\&quot;price\&quot;:\&quot;2.99\&quot;,\&quot;productType\&quot;:\&quot;subscriptions\&quot;,\&quot;imgUrl\&quot;:\&quot;https:\\/\\/cdnws.51tyty.com\\/wechat\\/marketing\\/upload\\/166897\\/12567\\/da2c31753fa3e2052de0e3ab6062677d.png\&quot;,\&quot;duration\&quot;:7}}&quot;,&quot;client_request_url&quot;:&quot;<a href="https://wechat.51tyty.com/marketing/addons/yb_shopv2_video/core/notify_wx.php">https://wechat.51tyty.com/marketing/addons/yb_shopv2_video/core/notify_wx.php</a>&quot;,&quot;host&quot;:&quot;wechat.51tyty.com&quot;,&quot;wxapp_do&quot;:&quot;&quot;,&quot;path&quot;:&quot;//&quot;,&quot;useragent&quot;:&quot;Mozilla/4.0&quot;,&quot;__level__&quot;:&quot;INFO&quot;,&quot;useTime&quot;:&quot;2419.996&quot;,&quot;useMem&quot;:&quot;0.6724&quot;,&quot;__pack_meta__&quot;:&quot;0|MTc2NzU0MjQzMzQ4MjExNjYyMw==|1|0&quot;,&quot;__topic__&quot;:&quot;&quot;,&quot;__source__&quot;:&quot;121.51.58.170&quot;,&quot;__tag__:__client_ip__&quot;:&quot;124.222.205.111&quot;,&quot;__tag__:__receive_time__&quot;:&quot;1770688042&quot;,&quot;__time__&quot;:&quot;1770688042&quot;}
+        </td></tr>
+                <tr id="comment-header-374675"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">10/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374675"><td bgcolor="#ffffff">
+            有效期问题已沟通处理，不用调查。<br/>
+调查下为啥学员的操作记录里面没有添加学员、购买有效期、有效期变更 等的操作记录
+        </td></tr>
+                <tr id="comment-header-374920"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="xsqi" id="word_commented_xsqi" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=xsqi">齐先送</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">11/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374920"><td bgcolor="#ffffff">
+            学员通过微信渠道加入，购买记录也是通过微信渠道
+        </td></tr>
+                <tr id="comment-header-375042"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zjliu" id="word_commented_zjliu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zjliu">刘佐军</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">11/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-375042"><td bgcolor="#ffffff">
+            学员通过手机号进行注册，非OSS后台添加的，不会进行【添加学员】日志日志记录
+        </td></tr>
+                <tr id="comment-header-377334"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zjliu" id="word_commented_zjliu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zjliu">刘佐军</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377334"><td bgcolor="#ffffff">
+            学员通过手机号注册，默认有效期为7天，购买了7天时长的商品。有效期变更为14天。divx_user.dcp_transaction_log
+        </td></tr>
+                <tr id="comment-header-377731"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zjliu" id="word_commented_zjliu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zjliu">刘佐军</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-377731"><td bgcolor="#ffffff">
+            学员通过手机号进行注册，非OSS后台添加的，不会进行【添加学员】购买有效期、有效期变更 等的操作记录记录
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:12:08 CST 2026。
+
+</body>
+</html>

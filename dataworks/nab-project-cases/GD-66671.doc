@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-66671] blejyc后台搜不到A15111845920学生账号，学员昵称：王洛尘，添加也添加不进去</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-66671]&nbsp;<a href="https://jira.51tyty.com/browse/GD-66671">blejyc后台搜不到A15111845920学生账号，学员昵称：王洛尘，添加也添加不进去</a>
+            <span class="subText">
+               创建日期: 15/&#19968;&#26376;/26                   &nbsp;已更新: 16/&#19968;&#26376;/26
+
+                                                    &nbsp;已解决: 16/&#19968;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_assignee_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-458959-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            2分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-3.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-4.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    截屏2026-01-15 19.32.02.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    截屏2026-01-15 19.32.12.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-458959-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-458959-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-458959-value" class="value" bgcolor="#ffffff" width="80%">    blejyc</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-458959-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="xyyang" id="user_cf_xyyang">杨馨雨</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-458959-value" class="value" bgcolor="#ffffff" width="80%">      2026.01.15
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-458959-value" class="value" bgcolor="#ffffff" width="80%">      机构：blejyc<br/>
+学员：A15111845920学生账号，学员昵称：王洛尘
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-458959-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-458959-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-458959-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            描述：后台搜不到A15111845920学生账号，学员昵称：王洛尘，添加也添加不进去<br/>
+步骤：教务--学员管理--学员列表--搜索学员--创建学员<br/>
+环境：线上<br/>
+期望：需要排查昨天晚上为什么不能正常添加<br/>
+实际：现在学员已经添加进去了，只需要排查问题
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-368215"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="nxu" id="word_commented_nxu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=nxu">徐宁</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-368215"><td bgcolor="#ffffff">
+            初步排查，同手机号存在一个老师角色，学员前面加A现在是可以创建的，运营同学预期是希望后台能查一下，2026-1-15晚上为什么无法添加学员<br/>
+现在学员是已经添加到机构了，只需要排查下为什么昨天晚上无法添加
+        </td></tr>
+                <tr id="comment-header-368230"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zfwang" id="word_commented_zfwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zfwang">王之枫</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-368230"><td bgcolor="#ffffff">
+            01-15 19:28:54<br/>
+172.16.77.130<br/>
+121.43.189.196<br/>
+1768476534<br/>
+__env__:produce<br/>
+__env_name__:produce<br/>
+__level__:INFO<br/>
+data:{&quot;RegisterOption&quot;:{&quot;timeType&quot;:&quot;end&quot;,&quot;endDate&quot;:&quot;2099-12-31&quot;,&quot;duration&quot;:0,&quot;gender&quot;:-1,&quot;role&quot;:&quot;groupMember&quot;,&quot;addStudentMaxNum&quot;:null,&quot;isTrial&quot;:false,&quot;nickname&quot;:&quot;\u738b\u6d1b\u5c18&quot;,&quot;school&quot;:&quot;&quot;,&quot;grade&quot;:&quot;&quot;,&quot;password&quot;:&quot;845920&quot;,&quot;repassword&quot;:&quot;845920&quot;,&quot;registerType&quot;:&quot;username&quot;,&quot;remark&quot;:null,&quot;smsCode&quot;:&quot;&quot;,&quot;username&quot;:&quot;A15111845920&quot;,&quot;birthday&quot;:null,&quot;homeAddress&quot;:null,&quot;ishomeschoolAccount&quot;:&quot;false&quot;,&quot;hasForeignTeacher&quot;:&quot;&quot;,&quot;photourl&quot;:&quot;&quot;,&quot;startWorkDate&quot;:&quot;&quot;,&quot;userIntroduction&quot;:&quot;&quot;,&quot;emergencyContact&quot;:&quot;&quot;,&quot;nicknameNote&quot;:&quot;&quot;}}<br/>
+header:{&quot;Content-type&quot;:&quot;application\/json&quot;,&quot;AppType&quot;:&quot;10&quot;,&quot;DeviceType&quot;:&quot;5&quot;,&quot;lan&quot;:&quot;ch&quot;,&quot;DeviceUniqueId&quot;:&quot;lingshikeji&quot;,&quot;FromAppName&quot;:&quot;newoss&quot;,&quot;token&quot;:&quot;10750:1831548323:0c666f55-a959-4853-915d-02a86012e7c7:96d0c2877e8ff0abadf35d5af334a04d:108v&quot;,&quot;InstId&quot;:&quot;1071128&quot;,&quot;serverId&quot;:&quot;108&quot;,&quot;timezone&quot;:&quot;GMT+0800&quot;,&quot;mask&quot;:false}<br/>
+ip:125.76.213.19<br/>
+location:/student/add<br/>
+logMoreInfo:{&quot;level&quot;:2,&quot;dcp_use_time&quot;:223.6831}<br/>
+method:POST<br/>
+res:{&quot;code&quot;:&quot;-2&quot;,&quot;message&quot;:&quot;\u7528\u6237\u5df2\u5b58\u5728&quot;}<br/>
+url:<a href="https://pz.51tyty.com/user/services/rest/user/">https://pz.51tyty.com/user/services/rest/user/</a><br/>
+useragent:PHP_CLI
+        </td></tr>
+                <tr id="comment-header-368233"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zfwang" id="word_commented_zfwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zfwang">王之枫</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-368233"><td bgcolor="#ffffff">
+            01-15 19:26:34<br/>
+172.16.77.130<br/>
+121.43.189.196<br/>
+1768476394<br/>
+__env__:produce<br/>
+__env_name__:produce<br/>
+__level__:INFO<br/>
+data:[]<br/>
+header:{&quot;Content-type&quot;:&quot;application\/json&quot;,&quot;AppType&quot;:&quot;10&quot;,&quot;DeviceType&quot;:&quot;5&quot;,&quot;lan&quot;:&quot;ch&quot;,&quot;DeviceUniqueId&quot;:&quot;lingshikeji&quot;,&quot;FromAppName&quot;:&quot;newoss&quot;,&quot;token&quot;:&quot;10750:1831548323:0c666f55-a959-4853-915d-02a86012e7c7:96d0c2877e8ff0abadf35d5af334a04d:108v&quot;,&quot;InstId&quot;:&quot;1071128&quot;,&quot;serverId&quot;:&quot;108&quot;,&quot;timezone&quot;:&quot;GMT+0800&quot;,&quot;mask&quot;:false}<br/>
+ip:125.76.213.19<br/>
+location:/student/checkUsername?userName=A15111845920<br/>
+logMoreInfo:{&quot;level&quot;:2,&quot;dcp_use_time&quot;:98.881}<br/>
+method:GET<br/>
+res:{&quot;code&quot;:&quot;-3100&quot;,&quot;message&quot;:&quot;\u65e0\u6548\u53c2\u6570\uff0c\u7528\u6237\u672a\u627e\u5230&quot;,&quot;resId&quot;:&quot;601&quot;}<br/>
+url:<a href="https://pz.51tyty.com/user/services/rest/user/Name/A15111845920">https://pz.51tyty.com/user/services/rest/user/Name/A15111845920</a><br/>
+useragent:PHP_CLI
+        </td></tr>
+                <tr id="comment-header-368235"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zfwang" id="word_commented_zfwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zfwang">王之枫</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-368235"><td bgcolor="#ffffff">
+            昨晚七点半    添加接口提示用户已存在。 check接口校验是还学员不存在 
+        </td></tr>
+                <tr id="comment-header-368241"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">16/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-368241"><td bgcolor="#ffffff">
+            用户名系统唯一，建议修改用户名 或者使用手机号添加呢
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:13:03 CST 2026。
+
+</body>
+</html>

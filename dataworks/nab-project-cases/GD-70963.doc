@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-70963] 【admincontent43】视频配音句子中的单词多处出现吞音问题，机构提供的原视频是有完整的念出“Peter&quot;和”Then&quot;，但是上传到后台制作视频配音 这两个吞音了。</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-70963]&nbsp;<a href="https://jira.51tyty.com/browse/GD-70963">【admincontent43】视频配音句子中的单词多处出现吞音问题，机构提供的原视频是有完整的念出“Peter&quot;和”Then&quot;，但是上传到后台制作视频配音 这两个吞音了。</a>
+            <span class="subText">
+               创建日期: 05/&#19977;&#26376;/26                   &nbsp;已更新: 10/&#19977;&#26376;/26
+
+                                                    &nbsp;已解决: 10/&#19977;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P2
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="fytian" id="word_reporter_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="fytian" id="word_assignee_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-469048-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            20分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    4-【004】The Tale of Peter Rabbit 4_The Garden Gate-480P 标清-AVC.mp4 &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    媒体播放器 2026-03-05 10-20-20.mp4 &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    童言童语测试-制作视频配音 - Google Chrome 2026-03-05 10-19-14.mp4 &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    童言童语测试-制作视频配音 - Google Chrome 2026-03-05 10-19-49.mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-469048-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-469048-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-469048-value" class="value" bgcolor="#ffffff" width="80%">    admincontent43</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-469048-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="yunying" id="user_cf_yunying">运营待处理</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-469048-value" class="value" bgcolor="#ffffff" width="80%">      2026-03-05
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-469048-value" class="value" bgcolor="#ffffff" width="80%">      admincontent43
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-469048-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-469048-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-469048-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            英语学科-视频配音 <br/>
+账号：admincontent43<br/>
+书籍名称：《Little Fox 2: The World of Peter Rabbit and Friends》<br/>
+课文：4 The Garden Gate<br/>
+视频配音句子中的单词多处出现吞音问题，机构提供的原视频是有完整的念出“Peter&quot;和”Then&quot;，但是上传到后台制作视频配音 这两个吞音了。位置在第11句和第31句。麻烦帮忙看一下是什么问题。<br/>
+<br/>
+问题反馈人：庄莲欢
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-379935"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="xdli" id="word_commented_xdli" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=xdli">李希栋</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-379935"><td bgcolor="#ffffff">
+            调用视频转码，转码后的视频中对应位置缺失单词读音，需要后台二组排查<br/>
+源视频：https:\/\/lztyty-1251002164.cos.ap-shanghai.myqcloud.com\/oss_ugc\/_2026-03-04_sieu_1772618006594.mp4<br/>
+转码后：https:\/\/cdnwstx.lingshi.com\/mpsout\/101\/6355\/2026\/3\/4\/_2026-03-04_sieu_1772618006594_transcode_1322553.mp4<br/>
+缺音位置： 1:25，  3:18<br/>
+调用：<br/>
+data:{&quot;dcpMtsTranscode&quot;:{&quot;id&quot;:1,&quot;contentId&quot;:43145148,&quot;contentType&quot;:1,&quot;transItemId&quot;:42522383,&quot;transItemType&quot;:0,&quot;processed&quot;:&quot;&quot;,&quot;mediaStatus&quot;:0,&quot;srcOssUrl&quot;:&quot;https:\/\/lztyty-1251002164.cos.ap-shanghai.myqcloud.com\/oss_ugc\/_2026-03-04_sieu_1772618006594.mp4&quot;,&quot;outOssUrl&quot;:&quot;&quot;,&quot;needThumbnail&quot;:true,&quot;thumbnailUrl&quot;:&quot;&quot;,&quot;fileType&quot;:1,&quot;handleServerPort&quot;:0,&quot;mtsRequestId&quot;:&quot;&quot;,&quot;attempts&quot;:0,&quot;resolution&quot;:0,&quot;errorMessage&quot;:&quot;&quot;},&quot;callbackUrl&quot;:&quot;https:\/\/ackugc.51tyty.com\/notice\/getVideoCallBack?instId=101&amp;userId=6355&amp;fileHash=5743345975260109214&amp;fileSize=9505531&quot;,&quot;instId&quot;:&quot;101&quot;,&quot;userId&quot;:6355,&quot;serverId&quot;:&quot;1&quot;,&quot;caller&quot;:&quot;oss&quot;}<br/>
+header:{&quot;Content-type&quot;:&quot;application\/json&quot;,&quot;AppType&quot;:&quot;6&quot;,&quot;DeviceType&quot;:&quot;0&quot;,&quot;lan&quot;:&quot;ch&quot;,&quot;uc&quot;:&quot;TYTY&quot;,&quot;FromAppName&quot;:&quot;newugc&quot;,&quot;AppVersion&quot;:&quot;2.1.1.47067&quot;,&quot;DeviceUniqueId&quot;:&quot;lingshikeji&quot;,&quot;token&quot;:&quot;1079280:1835775704:cb71fd73-5024-40b8-a0de-b2d54240a281:813efdf04a4a31da2e3475ccd5977d35:1v&quot;}<br/>
+logMoreInfo:{&quot;level&quot;:2,&quot;dcp_use_time&quot;:44.1051}<br/>
+method:POST<br/>
+res:{&quot;code&quot;:0,&quot;message&quot;:&quot;success&quot;,&quot;clientReqIds&quot;:[&quot;bc439ffec46b473599cf2862624cebcd&quot;]}<br/>
+url:<a href="https://transcode.lingshi.com/transcode/send/c3e6a870ec78996a0d935b46e4a77a06">https://transcode.lingshi.com/transcode/send/c3e6a870ec78996a0d935b46e4a77a06</a><br/>
+useragent:PHP_CLI<br/>
+<br/>
+回调：<br/>
+client_request_url:<a href="https://ackugc.51tyty.com/notice/getVideoCallBack?instId=101&userId=6355&fileHash=5743345975260109214&fileSize=9505531">https://ackugc.51tyty.com/notice/getVideoCallBack?instId=101&amp;userId=6355&amp;fileHash=5743345975260109214&amp;fileSize=9505531</a><br/>
+data:{&quot;instId&quot;:&quot;101&quot;,&quot;userId&quot;:&quot;6355&quot;,&quot;fileHash&quot;:&quot;5743345975260109214&quot;,&quot;fileSize&quot;:&quot;9505531&quot;,&quot;DcpMtsTranscode&quot;:{&quot;id&quot;:1,&quot;contentId&quot;:43145148,&quot;contentType&quot;:1,&quot;transItemId&quot;:42522383,&quot;transItemType&quot;:0,&quot;processed&quot;:false,&quot;mediaStatus&quot;:6,&quot;srcOssUrl&quot;:&quot;https:\/\/lztyty-1251002164.cos.ap-shanghai.myqcloud.com\/oss_ugc\/_2026-03-04_sieu_1772618006594.mp4&quot;,&quot;outOssUrl&quot;:&quot;https:\/\/cdnwstx.lingshi.com\/mpsout\/101\/6355\/2026\/3\/4\/_2026-03-04_sieu_1772618006594_transcode_1322553.mp4&quot;,&quot;needThumbnail&quot;:true,&quot;thumbnailUrl&quot;:&quot;https:\/\/cdnwstx.lingshi.com\/mpsout\/101\/6355\/2026\/3\/4\/_2026-03-04_sieu_1772618006594_sampleByOffset_158810_0.jpg&quot;,&quot;fileType&quot;:1,&quot;handleServerPort&quot;:0,&quot;mtsRequestId&quot;:&quot;99b65663-4d94-4427-929b-db0a76d17bf3&quot;,&quot;attempts&quot;:0,&quot;resolution&quot;:0,&quot;errorMessage&quot;:&quot;&quot;,&quot;dateCreated&quot;:&quot;2026-03-04 17:53:48&quot;,&quot;dateModified&quot;:&quot;2026-03-04 17:53:49&quot;,&quot;serverId&quot;:1,&quot;outDuration&quot;:&quot;224.671&quot;}}<br/>
+useragent:PHP_CLI<br/>
+type:get_video_call_back_notice
+        </td></tr>
+                <tr id="comment-header-379948"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">05/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-379948"><td bgcolor="#ffffff">
+            腾讯转码问题，沟通腾讯处理<br/>
+<br/>
+已为您创建事件单，点击可查看工单详情和催单:<a href="https://link.andon.tencent.com/j0xU9A4i">https://link.andon.tencent.com/j0xU9A4i</a>
+        </td></tr>
+                <tr id="comment-header-381660"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">10/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-381660"><td bgcolor="#ffffff">
+            原视频存在空洞
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:11:28 CST 2026。
+
+</body>
+</html>

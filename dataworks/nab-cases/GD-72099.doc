@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-72099] hwjxx老师在2月这期间是有布置任务且有学员完成任务，但是学习数据显示为0</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-72099]&nbsp;<a href="https://jira.51tyty.com/browse/GD-72099">hwjxx老师在2月这期间是有布置任务且有学员完成任务，但是学习数据显示为0</a>
+            <span class="subText">
+               创建日期: 12/&#19977;&#26376;/26                   &nbsp;已更新: 13/&#19977;&#26376;/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">重新打开</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jjxiao" id="word_assignee_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				未解决
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-470879-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            10分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    image-2026-03-12-13-38-44-711.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    image-2026-03-12-13-38-48-936.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    image-2026-03-12-13-38-52-455.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-470879-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-470879-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-470879-value" class="value" bgcolor="#ffffff" width="80%">    hwjxx</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-470879-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="yxye" id="user_cf_yxye">叶云霞</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-470879-value" class="value" bgcolor="#ffffff" width="80%">      2026-03-12
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-470879-value" class="value" bgcolor="#ffffff" width="80%">      15075496858
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-470879-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-470879-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-470879-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：hwjxx<br/>
+账号：15075496858<br/>
+操作路径/课本位置：【数据-学习数据】全部任务-按老师15075496858<br/>
+实际结果：有完成的任务，但是数据为0<br/>
+预期结果：有完成的任务，数据不为0<br/>
+其他说明：<br/>
+<br/>
+运营原话：<br/>
+机构代码：hwjxx<br/>
+老师账号：15075496858<br/>
+时间：2026年2月<br/>
+问题：老师在2月这期间是有布置任务的，且期间也有学员完成任务，但是后台数据老师这里数据都是0，帮忙看下怎么回事？
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-382451"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zfwang" id="word_commented_zfwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zfwang">王之枫</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382451"><td bgcolor="#ffffff">
+            SELECT<br/>
+&nbsp;&nbsp;`A90_T_1_`.`user_id` AS T_A30_3_,<br/>
+&nbsp;&nbsp;`A90_T_1_`.`nickname` AS T_A39_4_,<br/>
+&nbsp;&nbsp;`A90_T_1_`.`username` AS T_AE6_5_,<br/>
+&nbsp;&nbsp;SUM(IFNULL(A83_T_2_.`com_task_count`, 0)) AS T_A17_6_,<br/>
+&nbsp;&nbsp;SUM(IFNULL(A83_T_2_.`total_task_count`, 0)) AS T_A23_7_,<br/>
+&nbsp;&nbsp;IFNULL(<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;SUM(A83_T_2_.`com_task_count`) / SUM(A83_T_2_.`total_task_count`),<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;0<br/>
+&nbsp;&nbsp;) AS T_AA7_8_,<br/>
+&nbsp;&nbsp;SUM(A83_T_2_.`score_sum`) / SUM(A83_T_2_.`com_hasscore_task_count`) AS T_A4E_9_<br/>
+FROM<br/>
+&nbsp;&nbsp;(<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;select<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`inst_id`,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`user_id`,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`username`,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if(<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COALESCE(nickname_note, &#39;&#39;) = &#39;&#39;,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nickname,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`nickname_note`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) as nickname,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mobile<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;from<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`dcp_inst_user_info`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;WHERE<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`inst_id` = &#39;252749&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and `role_id` != 6<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and `role_id` != 7<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and `user_status` != 3<br/>
+&nbsp;&nbsp;) AS A90_T_1_<br/>
+&nbsp;&nbsp;LEFT JOIN (<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;select<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum(total_task_count) as total_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum(com_task_count) as com_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum(total_signed_days) as total_signed_days,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum(completed_signed_days) as completed_signed_days,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum(score_sum) as score_sum,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum(com_hasscore_task_count) as com_hasscore_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;count_date,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teacher_id<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;FROM<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dcp_teacher_task_count<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;WHERE<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`inst_id` = &#39;252749&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AND date_format(count_date, &#39;%Y-%m&#39;) = &#39;2026-02&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;group BY<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;teacher_id,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;count_date<br/>
+&nbsp;&nbsp;) AS A83_T_2_ ON `A90_T_1_`.`user_id` = `A83_T_2_`.`teacher_id`<br/>
+WHERE<br/>
+&nbsp;&nbsp;`A90_T_1_`.`mobile` LIKE &#39;%15075496858%&#39;<br/>
+GROUP BY<br/>
+&nbsp;&nbsp;`A90_T_1_`.`user_id`,<br/>
+&nbsp;&nbsp;`A90_T_1_`.`nickname`,<br/>
+&nbsp;&nbsp;`A90_T_1_`.`username`<br/>
+ORDER BY<br/>
+&nbsp;&nbsp;T_AA7_8_ DESC<br/>
+LIMIT<br/>
+&nbsp;&nbsp;0, 20
+        </td></tr>
+                <tr id="comment-header-382465"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="nxu" id="word_commented_nxu" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=nxu">徐宁</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382465"><td bgcolor="#ffffff">
+            排查发现老师2月份没有布置任务，但是老师有个任务延续到了2月份
+        </td></tr>
+                <tr id="comment-header-382908"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jjxiao" id="word_commented_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">13/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382908"><td bgcolor="#ffffff">
+            根据老师布置的任务开始时间来统计的，比如任务的日期是1.30~3.1日，那么学生在完成任务时，是算给在1.30日的
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 16:02:13 CST 2026。
+
+</body>
+</html>

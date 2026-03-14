@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-72075] 老师开通收银宝后，学员无法付款</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-72075]&nbsp;<a href="https://jira.51tyty.com/browse/GD-72075">老师开通收银宝后，学员无法付款</a>
+            <span class="subText">
+               创建日期: 12/&#19977;&#26376;/26                   &nbsp;已更新: 12/&#19977;&#26376;/26
+
+                                                    &nbsp;已解决: 12/&#19977;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_assignee_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-470842-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            11分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    0d9a90d9-817a-42a4-8e7d-3938e7dcc825.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    106a6cce-9d98-409d-b006-ed9eda23c641.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    e30e73ec-b30e-40be-b2ef-375aacb91429.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    userDevices.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-470842-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-470842-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-470842-value" class="value" bgcolor="#ffffff" width="80%">    yxyt</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-470842-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="jzhang" id="user_cf_jzhang">张俊</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-470842-value" class="value" bgcolor="#ffffff" width="80%">      2026/03/12
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-470842-value" class="value" bgcolor="#ffffff" width="80%">      adminyxyt
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-470842-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-470842-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-470842-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：yxyt <br/>
+账号：adminyxyt <br/>
+操作路径/课本位置：<br/>
+实际结果：<br/>
+预期结果：<br/>
+其他说明：<br/>
+<br/>
+运营原话：yxyt，老师已经开通收银宝了，怎么学员付款还是遇到图示的提示呢
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-382367"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="cyzhang" id="word_commented_cyzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=cyzhang">张程莹</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382367"><td bgcolor="#ffffff">
+            &quot;instCode&quot; 丢失
+        </td></tr>
+                <tr id="comment-header-382368"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="cyzhang" id="word_commented_cyzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=cyzhang">张程莹</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382368"><td bgcolor="#ffffff">
+            traceid:b467b737-ee6f-40e6-9e6b-0080a082db1b<br/>
+url:<a href="http://payment.lingshi.com/payment/merchant/stat/query/hf">http://payment.lingshi.com/payment/merchant/stat/query/hf</a>
+        </td></tr>
+                <tr id="comment-header-382369"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="cyzhang" id="word_commented_cyzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=cyzhang">张程莹</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382369"><td bgcolor="#ffffff">
+            {&quot;traceid&quot;:&quot;b467b737-ee6f-40e6-9e6b-0080a082db1b&quot;,&quot;seq&quot;:&quot;6&quot;,&quot;env&quot;:&quot;webproduction&quot;,&quot;level&quot;:&quot;INFO&quot;,&quot;url&quot;:&quot;<a href="http://payment.lingshi.com/payment/merchant/stat/query/hf">http://payment.lingshi.com/payment/merchant/stat/query/hf</a>&quot;,&quot;info&quot;:&quot;{\&quot;url\&quot;:\&quot;http:\\/\\/payment.lingshi.com\\/payment\\/merchant\\/stat\\/query\\/hf\&quot;,\&quot;data\&quot;:{\&quot;json\&quot;:{\&quot;payload\&quot;:{\&quot;instCode\&quot;:\&quot;yxyt\&quot;,\&quot;seqId\&quot;:\&quot;0488560de38227ced5a7a25dfefe1b09\&quot;},\&quot;sign\&quot;:\&quot;4ec96e4015ade6c5d77bcd821512cbcf\&quot;}},\&quot;method\&quot;:\&quot;post\&quot;,\&quot;header\&quot;:[]}&quot;,&quot;result&quot;:&quot;{\&quot;code\&quot;:\&quot;0\&quot;,\&quot;message\&quot;:\&quot;Success\&quot;,\&quot;sign\&quot;:\&quot;\&quot;,\&quot;payload\&quot;:{\&quot;instCode\&quot;:null,\&quot;merEnterAuditMaterial\&quot;:{\&quot;applyType\&quot;:\&quot;1\&quot;,\&quot;applyChannel\&quot;:\&quot;normal\&quot;,\&quot;cardType\&quot;:\&quot;1\&quot;,\&quot;cardName\&quot;:\&quot;姜柯良\&quot;,\&quot;cardNo\&quot;:\&quot;6216666500002272243\&quot;,\&quot;bankCode\&quot;:\&quot;01040000\&quot;,\&quot;branchCode\&quot;:\&quot;104100000004\&quot;,\&quot;certType\&quot;:\&quot;00\&quot;,\&quot;certNo\&quot;:\&quot;\&quot;,\&quot;certValidityType\&quot;:\&quot;\&quot;,\&quot;certBeginDate\&quot;:\&quot;\&quot;,\&quot;certEndDate\&quot;:\&quot;\&quot;,\&quot;regName\&quot;:\&quot;江西省英特社区服务有限公司\&quot;,\&quot;shortName\&quot;:\&quot;永修英特\&quot;,\&quot;receiptName\&quot;:\&quot;江西省英特社区服务有限公司\&quot;,\&quot;merEnName\&quot;:null,\&quot;entType\&quot;:\&quot;3\&quot;,\&quot;mcc\&quot;:\&quot;5411\&quot;,\&quot;busiType\&quot;:null,\&quot;sceneType\&quot;:\&quot;ALL\&quot;,\&quot;licensePic\&quot;:\&quot;687151fa-d703-3150-9092-f7a7a4a24a37\&quot;,\&quot;licenseCode\&quot;:\&quot;91360425MAK3AJ7L9L\&quot;,\&quot;licenseType\&quot;:\&quot;NATIONAL_LEGAL\&quot;,\&quot;licenseValidityType\&quot;:\&quot;1\&quot;,\&quot;licenseBeginDate\&quot;:\&quot;20251217\&quot;,\&quot;licenseEndDate\&quot;:\&quot;\&quot;,\&quot;foundDate\&quot;:null,\&quot;regCapital\&quot;:null,\&quot;businessScope\&quot;:null,\&quot;regProvId\&quot;:\&quot;360000\&quot;,\&quot;regAreaId\&quot;:\&quot;360400\&quot;,\&quot;regDistrictId\&quot;:\&quot;360425\&quot;,\&quot;regDetail\&quot;:\&quot;新城湖东区开发大道信南山水美地17栋2002室\&quot;,\&quot;provId\&quot;:\&quot;360000\&quot;,\&quot;areaId\&quot;:\&quot;360400\&quot;,\&quot;districtId\&quot;:\&quot;360425\&quot;,\&quot;detailAddr\&quot;:\&quot;新城湖东区开发大道信南山水美地17栋2002室\&quot;,\&quot;legalName\&quot;:\&quot;姜柯良\&quot;,\&quot;legalCertType\&quot;:\&quot;00\&quot;,\&quot;legalCertNo\&quot;:\&quot;360425198806250269\&quot;,\&quot;legalCertValidityType\&quot;:\&quot;1\&quot;,\&quot;legalCertBeginDate\&quot;:\&quot;20000101\&quot;,\&quot;legalCertEndDate\&quot;:\&quot;\&quot;,\&quot;legalMobileNo\&quot;:\&quot;\&quot;,\&quot;legalAddr\&quot;:\&quot;江西省南昌市红谷滩区茶园街368号3栋1单元2402室\&quot;,\&quot;legalCertBackPic\&quot;:\&quot;631ca19d-192e-3c58-974d-3e3da1b2d90f\&quot;,\&quot;legalCertFrontPic\&quot;:\&quot;3a20c9e5-ce54-36af-8dec-5c36c70d086f\&quot;,\&quot;contactName\&quot;:\&quot;姜柯良\&quot;,\&quot;contactMobileNo\&quot;:\&quot;13257090723\&quot;,\&quot;contactEmail\&quot;:\&quot;<a href='mailto:107540427@qq.com'>107540427@qq.com</a>\&quot;,\&quot;smsSendFlag\&quot;:\&quot;\&quot;,\&quot;loginName\&quot;:\&quot;13257090723\&quot;,\&quot;regAcctPic\&quot;:\&quot;\&quot;,\&quot;openLicenceNo\&quot;:\&quot;\&quot;,\&quot;settleCardFrontPic\&quot;:\&quot;49663e32-4ff5-3cce-8210-e56f4e6cf394\&quot;,\&quot;settleCertBackPic\&quot;:\&quot;631ca19d-192e-3c58-974d-3e3da1b2d90f\&quot;,\&quot;settleCertFrontPic\&quot;:\&quot;3a20c9e5-ce54-36af-8dec-5c36c70d086f\&quot;,\&quot;authEnturstPic\&quot;:\&quot;\&quot;,\&quot;headOfficeFlag\&quot;:null,\&quot;useHeadInfoFlag\&quot;:null,\&quot;headHuifuId\&quot;:null,\&quot;merUrl\&quot;:\&quot;\&quot;,\&quot;merIcp\&quot;:\&quot;\&quot;,\&quot;storeHeaderPic\&quot;:\&quot;6592c338-3c35-3f9e-bed1-ae87367fbbfa\&quot;,\&quot;storeIndoorPic\&quot;:\&quot;68ddf190-d086-3c17-9a88-a11bc31625bd\&quot;,\&quot;storeCashierDeskPic\&quot;:\&quot;bebc1083-9f05-34a5-9d26-da4591b6ab30\&quot;,\&quot;extMerId\&quot;:null,\&quot;remarks\&quot;:null,\&quot;extendedMaterialList\&quot;:[]},\&quot;merEnterAuditStat\&quot;:{\&quot;merEnterReqSeqId\&quot;:\&quot;SYBKT2026030410282910097485\&quot;,\&quot;merEnterReqDate\&quot;:\&quot;20260304\&quot;,\&quot;merEnterAuditStatus\&quot;:\&quot;AUDIT_PASSED\&quot;,\&quot;merEnterAuditDesc\&quot;:null,\&quot;huifuId\&quot;:\&quot;6666000191229266\&quot;,\&quot;merEnterApplyNo\&quot;:null,\&quot;tokenNo\&quot;:\&quot;10063362087\&quot;,\&quot;basicdataAuditStatus\&quot;:null,\&quot;basicdataAuditDesc\&quot;:null},\&quot;merBizAuditStat\&quot;:{\&quot;bizOpenReqSeqId\&quot;:\&quot;766a706560744ff99a45f0d63a677c1e\&quot;,\&quot;bizOpenReqDate\&quot;:\&quot;20260304\&quot;,\&quot;merBizOpenApplyNo\&quot;:\&quot;2026030498385129\&quot;,\&quot;merBizAuditStat\&quot;:\&quot;BIZ_SUCCESS\&quot;,\&quot;merBizAuditDesc\&quot;:\&quot;\&quot;,\&quot;merSplitAcctStatus\&quot;:\&quot;N\&quot;,\&quot;agreementUrl\&quot;:null},\&quot;realnameInfo\&quot;:{\&quot;wxOnLineQrCode\&quot;:null,\&quot;wxOnLineMerId\&quot;:\&quot;867949224\&quot;,\&quot;wxOnLineApplymentStat\&quot;:\&quot;APPLYMENT_STATE_REJECTED\&quot;,\&quot;wxOnLineApplymentDesc\&quot;:\&quot;请提供清晰完整的实物个人证件图片\&quot;,\&quot;wxOffLineQrCode\&quot;:null,\&quot;wxOffLineMerId\&quot;:\&quot;867948383\&quot;,\&quot;wxOffLineApplymentStat\&quot;:\&quot;APPLYMENT_STATE_REJECTED\&quot;,\&quot;wxOffLineApplymentDesc\&quot;:\&quot;请提供清晰完整的实物个人证件图片\&quot;,\&quot;aliMerId\&quot;:\&quot;2088380545907595\&quot;,\&quot;aliQrCode\&quot;:\&quot;<a href="https://mobilecodec.alipay.com/show.htm?code=2ie19760dcpfvurraj9rr85">https://mobilecodec.alipay.com/show.htm?code=2ie19760dcpfvurraj9rr85</a>\&quot;,\&quot;aliApplymentStat\&quot;:\&quot;CONTACT_CONFIRM\&quot;,\&quot;aliApplymentDesc\&quot;:\&quot;\&quot;,\&quot;aliAuthorizeStat\&quot;:\&quot;UNAUTHORIZED\&quot;,\&quot;wxOnLineAuthorizeStat\&quot;:\&quot;0\&quot;,\&quot;wxOfflineAuthorizeStat\&quot;:\&quot;0\&quot;,\&quot;businessDesc\&quot;:\&quot;\&quot;},\&quot;merBizOpenStatList\&quot;:[],\&quot;fileList\&quot;:[{\&quot;fileType\&quot;:\&quot;F02\&quot;,\&quot;fileId\&quot;:\&quot;3a20c9e5-ce54-36af-8dec-5c36c70d086f\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350516494301.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350516494301.jpeg</a>\&quot;},{\&quot;fileType\&quot;:\&quot;F13\&quot;,\&quot;fileId\&quot;:\&quot;49663e32-4ff5-3cce-8210-e56f4e6cf394\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259353040560095.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259353040560095.jpeg</a>\&quot;},{\&quot;fileType\&quot;:\&quot;F03\&quot;,\&quot;fileId\&quot;:\&quot;631ca19d-192e-3c58-974d-3e3da1b2d90f\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350603352363.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350603352363.jpeg</a>\&quot;},{\&quot;fileType\&quot;:\&quot;F22\&quot;,\&quot;fileId\&quot;:\&quot;6592c338-3c35-3f9e-bed1-ae87367fbbfa\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350208973662.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350208973662.jpeg</a>\&quot;},{\&quot;fileType\&quot;:\&quot;F07\&quot;,\&quot;fileId\&quot;:\&quot;687151fa-d703-3150-9092-f7a7a4a24a37\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259347337840433.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259347337840433.jpeg</a>\&quot;},{\&quot;fileType\&quot;:\&quot;F24\&quot;,\&quot;fileId\&quot;:\&quot;68ddf190-d086-3c17-9a88-a11bc31625bd\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350370071729.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350370071729.jpeg</a>\&quot;},{\&quot;fileType\&quot;:\&quot;F105\&quot;,\&quot;fileId\&quot;:\&quot;bebc1083-9f05-34a5-9d26-da4591b6ab30\&quot;,\&quot;fileUrl\&quot;:\&quot;<a href="https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350432498282.jpeg">https://cdnws.51tyty.com/lstyty/file/2026/03/04/1_08259350432498282.jpeg</a>\&quot;}]}}&quot;,&quot;__pack_meta__&quot;:&quot;1|MTc2NzU1NzU4NTM0NTk5ODAyOQ==|1|0&quot;,&quot;__topic__&quot;:&quot;&quot;,&quot;__source__&quot;:&quot;172.17.20.144&quot;,&quot;__tag__:__client_ip__&quot;:&quot;124.222.205.111&quot;,&quot;__tag__:__receive_time__&quot;:&quot;1773286737&quot;,&quot;__time__&quot;:&quot;1773286737&quot;}
+        </td></tr>
+                <tr id="comment-header-382390"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382390"><td bgcolor="#ffffff">
+            非instcode影响，已沟通
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:10:14 CST 2026。
+
+</body>
+</html>

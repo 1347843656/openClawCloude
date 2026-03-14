@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-57760] 学员任务完成后-老师查看打卡任务时-未展示分数</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-57760]&nbsp;<a href="https://jira.51tyty.com/browse/GD-57760">学员任务完成后-老师查看打卡任务时-未展示分数</a>
+            <span class="subText">
+               创建日期: 15/&#20061;&#26376;/25                   &nbsp;已更新: 15/&#20061;&#26376;/25
+
+                                                    &nbsp;已解决: 15/&#20061;&#26376;/25
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jjxiao" id="word_reporter_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jjxiao" id="word_assignee_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-409438-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            25分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    28ea543e-3e47-4484-8d79-b15341b45222(1).jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    d3f161c7-4379-4d33-bf13-16703d5e98fe(1).jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    userDevices.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    企业微信截图_17579308554063.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-409438-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-409438-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-409438-value" class="value" bgcolor="#ffffff" width="80%">    qlydg</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-409438-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="xlei" id="user_cf_xlei">雷雪</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-409438-value" class="value" bgcolor="#ffffff" width="80%">      2025/09/15
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-409438-value" class="value" bgcolor="#ffffff" width="80%">      adminqlydg
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-409438-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：qlydg <br/>
+账号：adminqlydg <br/>
+操作路径/课本位置：学员任务完成后-老师查看打卡任务时-未展示分数<br/>
+实际结果：学员任务完成后-老师查看打卡任务时-未展示分数<br/>
+预期结果：正常展示分数<br/>
+其他说明：<br/>
+任务名称：Make and say<br/>
+学员名称：郭依诺<br/>
+运营原话：qlydg  admin老师反馈这个打卡作业发布之后 学生都完成了 但是一部分学生不显示分数
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-328759"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="ttgeng" id="word_commented_ttgeng" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=ttgeng">耿童童</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">15/&#20061;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-328759"><td bgcolor="#ffffff">
+            该课文不支持测评
+        </td></tr>
+                <tr id="comment-header-328762"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="ttgeng" id="word_commented_ttgeng" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=ttgeng">耿童童</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">15/&#20061;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-328762"><td bgcolor="#ffffff">
+            GET /media/services/rest/lesson/4073096?serino=128&amp;lessonVersion=9 HTTP/1.1<br/>
+Host: kz.51tyty.com<br/>
+DeviceType: 0<br/>
+AppType: 6<br/>
+industryType: Education<br/>
+DeviceUniqueId: 00000000-7b85-46e3-0000-000015fa8e95-com.lingshi.inst.klxt-SM-S9010<br/>
+InstId: 1013033<br/>
+serverId: 102<br/>
+uc: TYTY_DEBUG_CHANNEL<br/>
+AppVersion: 5.2.20.209281<br/>
+FromAppName: APP<br/>
+username: yinuog123456<br/>
+lan: ch<br/>
+Requestuniqueid: 96592_1013033_1757930793389_128<br/>
+timeZone: GMT+08<br/>
+token: 96592:1821002768:c131d35a-fecc-4d46-b9b1-13d76ffa7515:c7b3ee404b5f96e099528bf941370827:102v<br/>
+Content-Type: application/json<br/>
+Connection: close<br/>
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 7.1.2; SM-S9010 Build/N2G48H)<br/>
+Accept-Encoding: gzip<br/>
+<br/>
+
+        </td></tr>
+                <tr id="comment-header-328763"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="ttgeng" id="word_commented_ttgeng" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=ttgeng">耿童童</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">15/&#20061;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-328763"><td bgcolor="#ffffff">
+            {<br/>
+	&quot;code&quot;: &quot;0&quot;,<br/>
+	&quot;message&quot;: &quot;Success&quot;,<br/>
+	&quot;lessons&quot;: [{<br/>
+		&quot;lessonId&quot;: &quot;4073096&quot;,<br/>
+		&quot;mediaId&quot;: &quot;418912&quot;,<br/>
+		&quot;bookType&quot;: &quot;book&quot;,<br/>
+		&quot;category&quot;: &quot;3&quot;,<br/>
+		&quot;categoryTitle&quot;: &quot;Lesson 2 What are you going to do tomorrow?&quot;,<br/>
+		&quot;number&quot;: &quot;3&quot;,<br/>
+		&quot;title&quot;: &quot;Make and say&quot;,<br/>
+		&quot;snapshotUrl&quot;: &quot;<a href="https://res.iiiview.net/oss_ugc/2025-06-13_qgsf_1749783118405.png">https://res.iiiview.net/oss_ugc/2025-06-13_qgsf_1749783118405.png</a>&quot;,<br/>
+		&quot;photoUrls&quot;: [&quot;<a href="https://res.iiiview.net/oss_ugc/2025-06-13_qgsf_1749783118405.png">https://res.iiiview.net/oss_ugc/2025-06-13_qgsf_1749783118405.png</a>&quot;],<br/>
+		&quot;audioUrl&quot;: &quot;<a href="https://cdnwstxvo.lingshi.com/6cd09a7dvodcq1500035823/dbe6529a3560136624047640093/f0.mp3">https://cdnwstxvo.lingshi.com/6cd09a7dvodcq1500035823/dbe6529a3560136624047640093/f0.mp3</a>&quot;,<br/>
+		&quot;config&quot;: &quot;55.95&quot;,<br/>
+		&quot;dateCreated&quot;: &quot;2025-07-19 08:12:35&quot;,<br/>
+		&quot;timeInterval&quot;: &quot;0&quot;,<br/>
+		&quot;lessonVersion&quot;: &quot;9&quot;,<br/>
+		&quot;hasPhoto&quot;: &quot;true&quot;,<br/>
+		&quot;hasAudio&quot;: &quot;true&quot;,<br/>
+		&quot;hasVideo&quot;: &quot;false&quot;,<br/>
+		&quot;hasOffice&quot;: &quot;false&quot;,<br/>
+		&quot;hasText&quot;: &quot;false&quot;,<br/>
+		&quot;voiceAssess&quot;: &quot;none&quot;,<br/>
+		&quot;pointRead&quot;: &quot;ok&quot;,<br/>
+		&quot;pointReads&quot;: [{<br/>
+			&quot;items&quot;: [{<br/>
+				&quot;index&quot;: &quot;1&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.2718122461931285&quot;,<br/>
+					&quot;y&quot;: &quot;0.08364042199246141&quot;,<br/>
+					&quot;width&quot;: &quot;0.2980120821321604&quot;,<br/>
+					&quot;height&quot;: &quot;0.041778095980121714&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;Make and say&quot;,<br/>
+				&quot;transText&quot;: &quot;制作并说&quot;,<br/>
+				&quot;start&quot;: &quot;0.8106666666667479&quot;,<br/>
+				&quot;end&quot;: &quot;2.36&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;2&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.11148929061570044&quot;,<br/>
+					&quot;y&quot;: &quot;0.1375476426119733&quot;,<br/>
+					&quot;width&quot;: &quot;0.4394735135240087&quot;,<br/>
+					&quot;height&quot;: &quot;0.036387373918170526&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;What are you going to do this Saturday?&quot;,<br/>
+				&quot;transText&quot;: &quot;这个星期六你打算做什么？&quot;,<br/>
+				&quot;start&quot;: &quot;2.301&quot;,<br/>
+				&quot;end&quot;: &quot;4.472&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;3&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.6075473766964484&quot;,<br/>
+					&quot;y&quot;: &quot;0.25883888900587504&quot;,<br/>
+					&quot;width&quot;: &quot;0.2734921006909067&quot;,<br/>
+					&quot;height&quot;: &quot;0.044473457011097305&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;I&#39;m going to see a film.&quot;,<br/>
+				&quot;transText&quot;: &quot;我要去看电影。&quot;,<br/>
+				&quot;start&quot;: &quot;4.641&quot;,<br/>
+				&quot;end&quot;: &quot;6.741&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;4&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.2621751861795588&quot;,<br/>
+					&quot;y&quot;: &quot;0.45821137526585104&quot;,<br/>
+					&quot;width&quot;: &quot;0.3791166361301534&quot;,<br/>
+					&quot;height&quot;: &quot;0.03908273494914612&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;Listen and choose &quot;,<br/>
+				&quot;transText&quot;: &quot;听并选择&quot;,<br/>
+				&quot;start&quot;: &quot;8.301333333333659&quot;,<br/>
+				&quot;end&quot;: &quot;10.711999999999861&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;5&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.09619377334645683&quot;,<br/>
+					&quot;y&quot;: &quot;0.5080755543388995&quot;,<br/>
+					&quot;width&quot;: &quot;0.8016147778871403&quot;,<br/>
+					&quot;height&quot;: &quot;0.07142706732085324&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;I&#39;m going to buy some books this Sunday.&quot;,<br/>
+				&quot;transText&quot;: &quot;这个星期天我要买一些书。&quot;,<br/>
+				&quot;start&quot;: &quot;13.279999999999617&quot;,<br/>
+				&quot;end&quot;: &quot;20.613333333333102&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;6&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.09807992576501481&quot;,<br/>
+					&quot;y&quot;: &quot;0.584893343721704&quot;,<br/>
+					&quot;width&quot;: &quot;0.7978424730500243&quot;,<br/>
+					&quot;height&quot;: &quot;0.06873170628987765&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;We are going to play football after school.&quot;,<br/>
+				&quot;transText&quot;: &quot;放学后我们要去踢足球。&quot;,<br/>
+				&quot;start&quot;: &quot;23.271999999999807&quot;,<br/>
+				&quot;end&quot;: &quot;30.224000000000032&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;7&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.09619377334645683&quot;,<br/>
+					&quot;y&quot;: &quot;0.6576680915580451&quot;,<br/>
+					&quot;width&quot;: &quot;0.7978424730500243&quot;,<br/>
+					&quot;height&quot;: &quot;0.06334098422792647&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;Are they going to see a film next week? Yes, they are.&quot;,<br/>
+				&quot;transText&quot;: &quot;他们下周要去看电影吗？是的，他们要。&quot;,<br/>
+				&quot;start&quot;: &quot;32.83199999999975&quot;,<br/>
+				&quot;end&quot;: &quot;40.053&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;8&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.09640007126723661&quot;,<br/>
+					&quot;y&quot;: &quot;0.7278317083956285&quot;,<br/>
+					&quot;width&quot;: &quot;0.7997286254685824&quot;,<br/>
+					&quot;height&quot;: &quot;0.06603634525890206&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;What&#39;s Eve going to do this Saturday? She is going to the zoo.&quot;,<br/>
+				&quot;transText&quot;: &quot;这个星期六伊芙打算做什么？她要去动物园。&quot;,<br/>
+				&quot;start&quot;: &quot;39.64233333333334&quot;,<br/>
+				&quot;end&quot;: &quot;45.653&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}, {<br/>
+				&quot;index&quot;: &quot;9&quot;,<br/>
+				&quot;rect&quot;: {<br/>
+					&quot;x&quot;: &quot;0.09640007126723661&quot;,<br/>
+					&quot;y&quot;: &quot;0.8033018172629451&quot;,<br/>
+					&quot;width&quot;: &quot;0.7997286254685824&quot;,<br/>
+					&quot;height&quot;: &quot;0.06199330371243867&quot;<br/>
+				},<br/>
+				&quot;orgText&quot;: &quot;This afternoon, he is going to have a swim.&quot;,<br/>
+				&quot;transText&quot;: &quot;今天下午，他要去游泳。&quot;,<br/>
+				&quot;start&quot;: &quot;47.78366666666636&quot;,<br/>
+				&quot;end&quot;: &quot;54.78099999999961&quot;,<br/>
+				&quot;showText&quot;: &quot;true&quot;,<br/>
+				&quot;needRecord&quot;: &quot;true&quot;<br/>
+			}],<br/>
+			&quot;pageIndex&quot;: &quot;0&quot;,<br/>
+			&quot;showPointReadIndex&quot;: &quot;true&quot;<br/>
+		}],<br/>
+		&quot;hasExam&quot;: &quot;false&quot;,<br/>
+		&quot;code&quot;: &quot;d23b34df022aa2ef928e4b745c445d1a&quot;,<br/>
+		&quot;srcCode&quot;: &quot;4f39c875fa4c315f72c3ef86d2e9663f&quot;,<br/>
+		&quot;hasPointReadText&quot;: &quot;true&quot;,<br/>
+		&quot;hasDubbing&quot;: &quot;false&quot;,<br/>
+		&quot;contentId&quot;: &quot;4073096&quot;,<br/>
+		&quot;contentType&quot;: &quot;EduLesson&quot;,<br/>
+		&quot;bookTitle&quot;: &quot;六年级上（科普版）&quot;,<br/>
+		&quot;chapterId&quot;: &quot;483324&quot;,<br/>
+		&quot;hasGate&quot;: &quot;false&quot;,<br/>
+		&quot;canShareOutside&quot;: &quot;true&quot;,<br/>
+		&quot;hasLink&quot;: &quot;false&quot;,<br/>
+		&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+		&quot;hasGuideReading&quot;: &quot;false&quot;,<br/>
+		&quot;hasLecture&quot;: &quot;false&quot;,<br/>
+		&quot;progress&quot;: &quot;0&quot;,<br/>
+		&quot;instId&quot;: &quot;0&quot;,<br/>
+		&quot;lessonOrigin&quot;: &quot;OSS&quot;,<br/>
+		&quot;openWith&quot;: &quot;0&quot;,<br/>
+		&quot;hasAudioResources&quot;: &quot;false&quot;<br/>
+	}],<br/>
+	&quot;startPos&quot;: &quot;0&quot;,<br/>
+	&quot;count&quot;: &quot;1&quot;,<br/>
+	&quot;total&quot;: &quot;0&quot;<br/>
+}
+        </td></tr>
+                <tr id="comment-header-328805"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="fytian" id="word_commented_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">15/&#20061;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-328805"><td bgcolor="#ffffff">
+            任务所选课文在content账号下就没有测评标识
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 16:54:11 CST 2026。
+
+</body>
+</html>

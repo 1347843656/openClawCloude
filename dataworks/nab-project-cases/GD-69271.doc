@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-69271] 【wm_Jd4BwAA7Zw-Mo9n8Jwmo3wo_KFecg2cFXLttojl5BAhYA】休息日设置完显示生效实际不生效</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-69271]&nbsp;<a href="https://jira.51tyty.com/browse/GD-69271">【wm_Jd4BwAA7Zw-Mo9n8Jwmo3wo_KFecg2cFXLttojl5BAhYA】休息日设置完显示生效实际不生效</a>
+            <span class="subText">
+               创建日期: 13/&#20108;&#26376;/26                   &nbsp;已更新: 26/&#20108;&#26376;/26
+
+                                                    &nbsp;已解决: 13/&#20108;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="Android"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D24202%20ORDER%20BY%20priority%20ASC"
+            >Android</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P2
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="hlli" id="word_reporter_hlli" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=hlli">李昊霖</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="wbxue" id="word_assignee_wbxue" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=wbxue">薛文博</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-465415-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            布置任务                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            1.1小时
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    Snipaste_2026-02-13_16-31-06.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    Snipaste_2026-02-13_16-32-45.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    Snipaste_2026-02-13_16-36-33.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    userDevices.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    wp_Jd4BwAA4qgxC3jBXddbYml8XxDwyw-1frBIzJ6PT8wJxyeQ8yrbh1VaHjnxZhYfi-ddDAFfDjLrdXoZ75fpudqsOCUl66D6xNvjT-Tg_w0gd4-8o_uZBw-video (1).mpeg4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-465415-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-465415-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-465415-value" class="value" bgcolor="#ffffff" width="80%">    yypp</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-465415-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="fwu" id="user_cf_fwu">吴菲</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-465415-value" class="value" bgcolor="#ffffff" width="80%">      2026/02/13
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-465415-value" class="value" bgcolor="#ffffff" width="80%">      13581562210<br/>
+
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-465415-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-465415-value" class="value" bgcolor="#ffffff" width="80%">    外部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>IM用户id:</b></td>
+                <td id="customfield_13300-465415-value" class="value" bgcolor="#ffffff" width="80%">      wm_Jd4BwAA7Zw-Mo9n8Jwmo3wo_KFecg2cFXLttojl5BAhYA
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-465415-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：yypp <br/>
+账号：adminyypp <br/>
+操作路径/课本位置：<br/>
+实际结果：休息日设置完显示生效实际不生效<br/>
+预期结果：应该生效的<br/>
+其他说明：<br/>
+<br/>
+运营原话：
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-375726"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">13/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-375726"><td bgcolor="#ffffff">
+            02-13 09:42:50<br/>
+172.16.64.40<br/>
+121.43.189.196<br/>
+1770946970<br/>
+cf_social<br/>
+AppType:4<br/>
+AppVersion:5.2.90.222849<br/>
+DeviceCategory:MOBILE<br/>
+DeviceType:0<br/>
+DeviceUniqueId:ae82042c-4b50-484b-97a1-476d4ae88333_com.lingshi.flutter.app<br/>
+FromAppName:Android<br/>
+HostAppInstId:0<br/>
+IG:yypp<br/>
+IP:116.95.84.77<br/>
+InstId:233318<br/>
+LSRequestID:09b26eb27a3d4bd8a86b6249f4661c32<br/>
+Method:updateShare<br/>
+RequestBody:[{&quot;shareId&quot;:118227606,&quot;title&quot;:&quot;陈逸邈✅Lisa老师视频课&quot;,&quot;hasSupportLateTask&quot;:true,&quot;supportLateTaskDays&quot;:60,&quot;teamType&quot;:&quot;group&quot;,&quot;personalType&quot;:&quot;personal&quot;,&quot;teamUsers&quot;:[{&quot;teamId&quot;:182176,&quot;userIds&quot;:[555209]}],&quot;snapshotUrl&quot;:&quot;&quot;,&quot;desc&quot;:&quot;&quot;,&quot;autoCheck&quot;:true,&quot;autoEvaluate&quot;:true,&quot;timingPush&quot;:false,&quot;contentChanged&quot;:true,&quot;manualRestDays&quot;:[&quot;2025-12-16&quot;,&quot;2025-12-17&quot;,&quot;2025-12-22&quot;,&quot;2025-12-23&quot;,&quot;2025-12-24&quot;,&quot;2025-12-29&quot;,&quot;2025-12-30&quot;,&quot;2025-12-31&quot;,&quot;2026-01-05&quot;,&quot;2026-01-06&quot;,&quot;2026-01-07&quot;,&quot;2026-01-12&quot;,&quot;2026-01-13&quot;,&quot;2026-01-14&quot;,&quot;2026-01-19&quot;,&quot;2026-01-20&quot;,&quot;2026-01-21&quot;,&quot;2026-01-26&quot;,&quot;2026-01-27&quot;,&quot;2026-01-28&quot;,&quot;2026-02-02&quot;,&quot;2026-02-03&quot;,&quot;2026-02-04&quot;,&quot;2026-02-08&quot;,&quot;2026-02-09&quot;,&quot;2026-02-10&quot;,&quot;2026-02-11&quot;,&quot;2026-02-14&quot;,&quot;2026-02-15&quot;,&quot;2026-02-16&quot;,&quot;2026-02-17&quot;,&quot;2026-02-18&quot;,&quot;2026-02-19&quot;,&quot;2026-02-20&quot;],&quot;startDate&quot;:&quot;2025-12-16 11:57:53&quot;,&quot;endDate&quot;:&quot;2026-03-21 23:59:00&quot;}]<br/>
+RequestUrl:/social/services/rest/assignment/share/update<br/>
+Response:{&quot;entity&quot;:{&quot;code&quot;:0,&quot;message&quot;:&quot;草稿跨天&quot;},&quot;metadata&quot;:{},&quot;entityClosed&quot;:false,&quot;entityBufferred&quot;:false}<br/>
+TimeZone:GMT+08<br/>
+Token:559944:1833960772:dfbd625e-bb9b-4804-b398-6f03be58ee18:b264786ce1e6823d8b4f74c65588a0ee:24v<br/>
+UserAgent:Dart/3.3 (dart:io)<br/>
+UserId:559944<br/>
+UserName:yypp13581562210<br/>
+level:INFO<br/>
+location:com.divx.service.aop.BaseAuthAspect.DoTokenCheck(BaseAuthAspect.java:356)<br/>
+log:2026.02.13 at 09:42:50.440 CST INFO  com.divx.service.aop.BaseAuthAspect 356 DoTokenCheck - DoTokenCheck API LOG<br/>
+message:DoTokenCheck API LOG<br/>
+thread:http-nio-8080-exec-1<br/>
+time:2026-02-13T09:42+0800
+        </td></tr>
+                <tr id="comment-header-375728"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">13/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-375728"><td bgcolor="#ffffff">
+            1、当时使用用户数据可复现--后续在使用就正常了，操作是跟视频相同的<br/>
+2、目前数据已可以正常修改，但需要查一下为什么返回消息里面会给个 草稿跨天的 msg
+        </td></tr>
+                <tr id="comment-header-375796"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="wbxue" id="word_commented_wbxue" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=wbxue">薛文博</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">13/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-375796"><td bgcolor="#ffffff">
+            因为 草稿跨天了<br/>
+创建草稿以后 并没有调用 updateShare<br/>
+__topic__:cf_social and Method:&quot;createEditDraft&quot; and 118227606 <br/>
+2-09号 创建的草稿<br/>
+2-13号 才调用updateShare<br/>
+这时候 草稿的数据已经非法 因此会提示草稿跨天<br/>
+这是 <a href="https://jira.51tyty.com/browse/XTJG-14211" title="【转需求】编辑已发布任务submit接口和shareupdate接口合并" class="issue-link" data-issue-key="XTJG-14211"><strike>XTJG-14211</strike></a>【转需求】编辑已发布任务submit接口和shareupdate接口合并 的逻辑更改<br/>
+
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:12:05 CST 2026。
+
+</body>
+</html>

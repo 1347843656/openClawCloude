@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-71994] 累计打卡111天 未打卡97天，加起来208，但实际学生全年应打卡天数有300天</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-71994]&nbsp;<a href="https://jira.51tyty.com/browse/GD-71994">累计打卡111天 未打卡97天，加起来208，但实际学生全年应打卡天数有300天</a>
+            <span class="subText">
+               创建日期: 11/&#19977;&#26376;/26                   &nbsp;已更新: 13/&#19977;&#26376;/26
+
+                                                    &nbsp;已解决: 13/&#19977;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jjxiao" id="word_assignee_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-470698-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            11分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    image-2026-03-11-18-40-32-175.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    image-2026-03-11-18-40-38-101.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-470698-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-470698-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-470698-value" class="value" bgcolor="#ffffff" width="80%">    jxczyw</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-470698-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="ldong" id="user_cf_ldong">董皊</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-470698-value" class="value" bgcolor="#ffffff" width="80%">      2026.03.11
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-470698-value" class="value" bgcolor="#ffffff" width="80%">      jxczyw<br/>
+18752004616
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-470698-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-470698-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-470698-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            操作：<br/>
+1.登录超管账号<br/>
+2.数据统计-累计打卡天数和累积未打卡天数加起来只有208天，但实际学生全年应打卡天数有300天才对，累计打卡111天 未打卡97天，加起来208<br/>
+预期：<br/>
+数据正常显示<br/>
+实际：<br/>
+累积打卡天数与全年应打卡天数对不上
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-382423"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zfwang" id="word_commented_zfwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zfwang">王之枫</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382423"><td bgcolor="#ffffff">
+            SELECT<br/>
+&nbsp;&nbsp;`A88_T_1_`.`user_id` AS T_A45_4_,<br/>
+&nbsp;&nbsp;`A88_T_1_`.`nickname` AS T_AF1_5_,<br/>
+&nbsp;&nbsp;`A88_T_1_`.`username` AS T_A59_6_,<br/>
+&nbsp;&nbsp;`A58_T_3_`.`所在班级` AS T_A05_7_,<br/>
+&nbsp;&nbsp;SUM(`A98_T_2_`.`serial_com_task_count`) AS T_A5A_8_,<br/>
+&nbsp;&nbsp;SUM(`A98_T_2_`.`serial_total_task_count`) AS T_A50_9_,<br/>
+&nbsp;&nbsp;SUM(`A98_T_2_`.`days_completed`) AS T_A67_10_,<br/>
+&nbsp;&nbsp;SUM(A98_T_2_.`serial_com_task_count`) / SUM(A98_T_2_.`serial_total_task_count`) AS T_AA4_11_,<br/>
+&nbsp;&nbsp;SUM(`A98_T_2_`.`signed_days`) AS T_A0D_12_,<br/>
+&nbsp;&nbsp;SUM(`A98_T_2_`.`unsigned_days`) AS T_A2E_13_,<br/>
+&nbsp;&nbsp;SUM(A98_T_2_.`signed_days`) /(<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;SUM(A98_T_2_.`signed_days`) + SUM(A98_T_2_.`unsigned_days`)<br/>
+&nbsp;&nbsp;) AS T_AC6_14_,<br/>
+&nbsp;&nbsp;SUM(A98_T_2_.`serial_score_sum`) / SUM(A98_T_2_.`serial_com_hasscore_task_count`) AS T_A10_15_<br/>
+FROM<br/>
+&nbsp;&nbsp;(<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;select<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`inst_id`,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`user_id`,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`username`,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ifNUll(nickname_note, `nickname`) as nickname,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mobile<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;from<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`dcp_inst_user_info`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;WHERE<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`inst_id` = &#39;53754&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and `role_id` = 6<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and `user_status` != 3<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;ORDER BY<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user_id asc<br/>
+&nbsp;&nbsp;) AS A88_T_1_<br/>
+&nbsp;&nbsp;LEFT JOIN (<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;SELECT<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pub_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;com_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;serial_total_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;serial_com_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;signed_days,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;serial_score_sum,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;serial_com_hasscore_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsigned_days,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IF (<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;serial_total_task_count != 0<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and serial_total_task_count = serial_com_task_count,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) as days_completed,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;count_date,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inst_id,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user_id<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;FROM<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dcp_user_task_count<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;WHERE<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inst_id = &#39;53754&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AND count_date &gt;= &#39;2024-11-11&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AND count_date &lt;= &#39;2025-11-16&#39;<br/>
+&nbsp;&nbsp;) AS A98_T_2_ ON `A88_T_1_`.`user_id` = `A98_T_2_`.`user_id`<br/>
+&nbsp;&nbsp;LEFT JOIN (<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;SELECT<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user_id,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;group_concat(DISTINCT(`group_name`)) as 所在班级<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;FROM<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dcp_student_class_relation<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;WHERE<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inst_id = &#39;53754&#39;<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;GROUP BY<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user_id<br/>
+&nbsp;&nbsp;) AS A58_T_3_ ON `A88_T_1_`.`user_id` = `A58_T_3_`.`user_id`<br/>
+WHERE<br/>
+&nbsp;&nbsp;`A88_T_1_`.`mobile` LIKE &#39;%18752004616%&#39;<br/>
+GROUP BY<br/>
+&nbsp;&nbsp;`A88_T_1_`.`user_id`,<br/>
+&nbsp;&nbsp;`A88_T_1_`.`nickname`,<br/>
+&nbsp;&nbsp;`A88_T_1_`.`username`,<br/>
+&nbsp;&nbsp;`A58_T_3_`.`所在班级`<br/>
+ORDER BY<br/>
+&nbsp;&nbsp;T_AA4_11_ DESC,<br/>
+&nbsp;&nbsp;T_A45_4_ ASC<br/>
+LIMIT<br/>
+&nbsp;&nbsp;0, 20
+        </td></tr>
+                <tr id="comment-header-382424"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="zfwang" id="word_commented_zfwang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=zfwang">王之枫</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382424"><td bgcolor="#ffffff">
+            雪梨机构的学员任务列表一直加载超时   中台查下数据
+        </td></tr>
+                <tr id="comment-header-382543"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jjxiao" id="word_commented_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">12/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-382543"><td bgcolor="#ffffff">
+            数据量太大，做了数据限制，只允许查看近370天的数据
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 16:52:25 CST 2026。
+
+</body>
+</html>

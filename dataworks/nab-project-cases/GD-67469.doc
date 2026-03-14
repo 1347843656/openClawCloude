@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-67469] 【ytet】机构反馈学员每天都有分享打卡，实际打卡次数只有1次</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-67469]&nbsp;<a href="https://jira.51tyty.com/browse/GD-67469">【ytet】机构反馈学员每天都有分享打卡，实际打卡次数只有1次</a>
+            <span class="subText">
+               创建日期: 26/&#19968;&#26376;/26                   &nbsp;已更新: 26/&#19968;&#26376;/26
+
+                                                    &nbsp;已解决: 26/&#19968;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="fytian" id="word_reporter_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="fytian" id="word_assignee_fytian" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=fytian">田方玉</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-462244-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            10分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/excel.gif" height="16" width="16" border="0" alt="Microsoft Word">
+                    25年10月C1组打卡.xlsx &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    image-2026-01-26-17-12-03-085.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-462244-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-462244-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-462244-value" class="value" bgcolor="#ffffff" width="80%">    ytet</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-462244-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="shanchen" id="user_cf_shanchen">陈珊</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-462244-value" class="value" bgcolor="#ffffff" width="80%">      2026-01-26
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-462244-value" class="value" bgcolor="#ffffff" width="80%">      ytet
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-462244-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-462244-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-462244-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            操作步骤：<br/>
+登录oss后台、教务、任务情况、搜索任务：英淘第六届100天阅读打卡-C组买点家查看任务，查看学员<br/>
+预期：每天都有分享，分享次数不应该是1<br/>
+实际：分享次数是1，导出文件也是1<br/>
+<br/>
+<br/>
+curl &#39;<a href="https://business.lingshi.com/api.php/assignment/V3/Inst/Share/SerialAssignmentsV2/199763338?startPos=0&endPos=9&queryDate=2026-01-15&sortField=signedPercent&#39;">https://business.lingshi.com/api.php/assignment/V3/Inst/Share/SerialAssignmentsV2/199763338?startPos=0&amp;endPos=9&amp;queryDate=2026-01-15&amp;sortField=signedPercent&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;accept: application/json, text/plain, */*&#39; \<br/>
+&nbsp;&nbsp;-H &#39;accept-language: zh-CN,zh;q=0.9,en-IN;q=0.8,en-US;q=0.7,en;q=0.6&#39; \<br/>
+&nbsp;&nbsp;-H &#39;apptype: 10&#39; \<br/>
+&nbsp;&nbsp;-H &#39;devicetype: 5&#39; \<br/>
+&nbsp;&nbsp;-H &#39;deviceuniqueid: d91ed0b9-290c-4700-ad1e-1d619d625e54&#39; \<br/>
+&nbsp;&nbsp;-H &#39;domain: <a href="https://uh.51tyty.com/social/services/rest&#39;">https://uh.51tyty.com/social/services/rest&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;instid: 896529&#39; \<br/>
+&nbsp;&nbsp;-H &#39;origin: <a href="https://school.lingshi.com&#39;">https://school.lingshi.com&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;priority: u=1, i&#39; \<br/>
+&nbsp;&nbsp;-H &#39;referer: <a href="https://school.lingshi.com/&#39;">https://school.lingshi.com/&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua: &quot;Not(A:Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;144&quot;, &quot;Google Chrome&quot;;v=&quot;144&quot;&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua-mobile: ?0&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua-platform: &quot;Windows&quot;&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-dest: empty&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-mode: cors&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-site: same-site&#39; \<br/>
+&nbsp;&nbsp;-H &#39;serverid: 90&#39; \<br/>
+&nbsp;&nbsp;-H &#39;timezone: GMT+0800&#39; \<br/>
+&nbsp;&nbsp;-H &#39;token: 205524:1832489707:c04ddb22-54cb-489d-b530-df745f73ad77:e08bf22baee77d7c2cfc8e1abd4d8d09:90v&#39; \<br/>
+&nbsp;&nbsp;-H &#39;user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&#39;<br/>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-371258"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jhzhang1" id="word_commented_jhzhang1" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jhzhang1">张家惠</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">26/&#19968;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-371258"><td bgcolor="#ffffff">
+            学员分享的是作品 不是打卡图,想要查看作品的分享次数需要到数据中心学习成就中查看
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:12:40 CST 2026。
+
+</body>
+</html>

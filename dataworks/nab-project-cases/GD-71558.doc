@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-71558] sgsfz，17560592020老师账号后台登录不上去</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-71558]&nbsp;<a href="https://jira.51tyty.com/browse/GD-71558">sgsfz，17560592020老师账号后台登录不上去</a>
+            <span class="subText">
+               创建日期: 09/&#19977;&#26376;/26                   &nbsp;已更新: 09/&#19977;&#26376;/26
+
+                                                    &nbsp;已解决: 09/&#19977;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="后台二组"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D18100%20ORDER%20BY%20priority%20ASC"
+            >后台二组</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="ntong" id="word_assignee_ntong" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=ntong">童楠</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-469955-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            功能问题                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            11分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-3.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    企业微信截图_17730268912122.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-469955-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-469955-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-469955-value" class="value" bgcolor="#ffffff" width="80%">    sgsfz</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-469955-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="yunying" id="user_cf_yunying">运营待处理</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-469955-value" class="value" bgcolor="#ffffff" width="80%">      2026/3/9
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-469955-value" class="value" bgcolor="#ffffff" width="80%">      sgsfz<br/>
+17560592020
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-469955-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-469955-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-469955-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            反馈人：吴禅冰<br/>
+环境：线上<br/>
+机构：sgsfz<br/>
+老师账号：17560592020<br/>
+步骤：<br/>
+1.oss后台登录 输入账号：17560592020<br/>
+密码：592020<br/>
+预期结果：登录成功<br/>
+实际结果：无法登录，转圈
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-381081"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="yhchen" id="word_commented_yhchen" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=yhchen">陈宇豪</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-381081"><td bgcolor="#ffffff">
+            运营说这个机构是新机构，才创建好的时候，可以使用手机号登录，但今天不行了，查看后台是未验证状态，在dim后台也没用已验证标签<br/>
+没有更改过手机号，而且前几天还可以使用手机号+密码登录
+        </td></tr>
+                <tr id="comment-header-381096"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="hrli" id="word_commented_hrli" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=hrli">李浩然</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-381096"><td bgcolor="#ffffff">
+            curl &#39;<a href="https://business.lingshi.com/business/switchInst&#39;">https://business.lingshi.com/business/switchInst&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;accept: application/json, text/plain, */*&#39; \<br/>
+&nbsp;&nbsp;-H &#39;accept-language: zh-CN,zh;q=0.9,zh-TW;q=0.8,en;q=0.7&#39; \<br/>
+&nbsp;&nbsp;-H &#39;cache-control: no-cache&#39; \<br/>
+&nbsp;&nbsp;-H &#39;content-type: application/json&#39; \<br/>
+&nbsp;&nbsp;-H &#39;devicetype: oss&#39; \<br/>
+&nbsp;&nbsp;-H &#39;instid: 804674&#39; \<br/>
+&nbsp;&nbsp;-H &#39;origin: <a href="https://school.lingshi.com&#39;">https://school.lingshi.com&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;pragma: no-cache&#39; \<br/>
+&nbsp;&nbsp;-H &#39;priority: u=1, i&#39; \<br/>
+&nbsp;&nbsp;-H &#39;referer: <a href="https://school.lingshi.com/&#39;">https://school.lingshi.com/&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua: &quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua-mobile: ?0&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua-platform: &quot;macOS&quot;&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-dest: empty&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-mode: cors&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-site: same-site&#39; \<br/>
+&nbsp;&nbsp;-H &#39;serverid: 81&#39; \<br/>
+&nbsp;&nbsp;-H &#39;token: 102731:1836193156:eb418039-db5a-4bac-b241-b60b7580f532:1e8ebbc31b651ed43f23712b4659c179:81v&#39; \<br/>
+&nbsp;&nbsp;-H &#39;user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&#39; \<br/>
+&nbsp;&nbsp;--data-raw &#39;{&quot;instId&quot;:&quot;1001474&quot;,&quot;serverId&quot;:&quot;101&quot;,&quot;domain&quot;:&quot;jz.51tyty.com&quot;,&quot;switchType&quot;:1}&#39;
+        </td></tr>
+                <tr id="comment-header-381098"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="hrli" id="word_commented_hrli" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=hrli">李浩然</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-381098"><td bgcolor="#ffffff">
+            curl &#39;<a href="https://business.lingshi.com/login/index&#39;">https://business.lingshi.com/login/index&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;accept: application/json, text/plain, */*&#39; \<br/>
+&nbsp;&nbsp;-H &#39;accept-language: zh-CN,zh;q=0.9,zh-TW;q=0.8,en;q=0.7&#39; \<br/>
+&nbsp;&nbsp;-H &#39;cache-control: no-cache&#39; \<br/>
+&nbsp;&nbsp;-H &#39;content-type: application/json&#39; \<br/>
+&nbsp;&nbsp;-H &#39;devicetype: oss&#39; \<br/>
+&nbsp;&nbsp;-H &#39;language: zh&#39; \<br/>
+&nbsp;&nbsp;-H &#39;origin: <a href="https://school.lingshi.com&#39;">https://school.lingshi.com&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;pragma: no-cache&#39; \<br/>
+&nbsp;&nbsp;-H &#39;priority: u=1, i&#39; \<br/>
+&nbsp;&nbsp;-H &#39;referer: <a href="https://school.lingshi.com/&#39;">https://school.lingshi.com/&amp;#39;</a> \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua: &quot;Not:A-Brand&quot;;v=&quot;99&quot;, &quot;Google Chrome&quot;;v=&quot;145&quot;, &quot;Chromium&quot;;v=&quot;145&quot;&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua-mobile: ?0&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-ch-ua-platform: &quot;macOS&quot;&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-dest: empty&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-mode: cors&#39; \<br/>
+&nbsp;&nbsp;-H &#39;sec-fetch-site: same-site&#39; \<br/>
+&nbsp;&nbsp;-H &#39;timezone: GMT+0800&#39; \<br/>
+&nbsp;&nbsp;-H &#39;user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&#39; \<br/>
+&nbsp;&nbsp;--data-raw &#39;{&quot;method&quot;:&quot;account&quot;,&quot;userName&quot;:&quot;17560592020&quot;,&quot;password&quot;:&quot;lzy1443&quot;,&quot;server&quot;:null}&#39;
+        </td></tr>
+                <tr id="comment-header-381228"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="ywmao" id="word_commented_ywmao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=ywmao">毛意伟</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-381228"><td bgcolor="#ffffff">
+            jz.51tyty.com/user/services/rest/user/Shadow/Switch/101/1001474<br/>
+<br/>
+header:{&quot;Content-type&quot;:&quot;application\/json&quot;,&quot;AppType&quot;:&quot;10&quot;,&quot;DeviceType&quot;:&quot;5&quot;,&quot;lan&quot;:&quot;ch&quot;,&quot;uc&quot;:&quot;TYTY&quot;,&quot;FromAppName&quot;:&quot;newoss&quot;,&quot;AppVersion&quot;:&quot;2.1.1.47067&quot;,&quot;DeviceUniqueId&quot;:&quot;lingshikeji&quot;,&quot;token&quot;:&quot;102731:1836197879:e40590c2-66a8-48cc-940f-565c648ab597:b67b16b783ef6ca099bafde3ec44681d:81v&quot;,&quot;InstId&quot;:&quot;804674&quot;,&quot;serverId&quot;:&quot;81&quot;}
+        </td></tr>
+                <tr id="comment-header-381245"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#19977;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-381245"><td bgcolor="#ffffff">
+            message=已过截止日期(2026-03-07)，请联系老师或管理员<br/>
+账号过期，正常拦截
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:11:09 CST 2026。
+
+</body>
+</html>

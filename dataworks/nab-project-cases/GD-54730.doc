@@ -1,0 +1,1568 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-54730] 布置的230打卡不重复任务内容重复了</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-54730]&nbsp;<a href="https://jira.51tyty.com/browse/GD-54730">布置的230打卡不重复任务内容重复了</a>
+            <span class="subText">
+               创建日期: 02/&#20843;&#26376;/25                   &nbsp;已更新: 04/&#20843;&#26376;/25
+
+                                                    &nbsp;已解决: 04/&#20843;&#26376;/25
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="Android"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D24202%20ORDER%20BY%20priority%20ASC"
+            >Android</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jjxiao" id="word_assignee_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-393522-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            无
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            2小时 16分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    bfeae496-8519-439c-9119-562ebd67fa51(1).jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    d188ea7f-a650-41e9-929f-00b0a7db96c8(1).jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    screenshot-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    userDevices.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    video(20)(1).mp4 &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/file.gif" height="16" width="16" border="0" alt="文件">
+                    video(23).mp4 &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-393522-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-393522-value" class="value" bgcolor="#ffffff" width="80%">    是
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-393522-value" class="value" bgcolor="#ffffff" width="80%">    baay</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-393522-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="yylin1" id="user_cf_yylin1">林月荧</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-393522-value" class="value" bgcolor="#ffffff" width="80%">      2025/08/02
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-393522-value" class="value" bgcolor="#ffffff" width="80%">      15622152014
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-393522-value" class="value" bgcolor="#ffffff" width="80%">    功能答疑
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：baay <br/>
+账号：adminbaay <br/>
+操作路径/课本位置：<br/>
+1、登录学员账号<br/>
+2、点击我的任务<br/>
+3、点击日历<br/>
+4、查看8.1的任务<br/>
+实际结果：8.1显示打卡第一天的内容<br/>
+预期结果：每天显示不同的一本绘本<br/>
+其他说明：<br/>
+<br/>
+运营原话：baay【运营：林月荧】<br/>
+<br/>
+老师账号：adminbaay<br/>
+学员账号：15622152014<br/>
+任务名称：【RAZLMN】230天打卡-录音、QUIZ阅读题 舒燕<br/>
+老师反馈：布置给学员的打卡作业，RAZ N级别每天一本录音，从7.29开始，7.30第2本，7.31第3本，8.1跳回到第一本重新开始了<br/>
+<br/>
+shareid=118876019<br/>
+8月1日和2月23日<br/>
+title=RAZ G-P(阅读营版）新<br/>
+taskTitle=01-A Hero&#39;s Name
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-315564"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/&#20843;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-315564"><td bgcolor="#ffffff">
+            班级：阅读营-1班（SVIP）<br/>
+任务：【RAZLMN】230天打卡-录音、QUIZ阅读题 舒燕
+        </td></tr>
+                <tr id="comment-header-315577"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/&#20843;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-315577"><td bgcolor="#ffffff">
+            查看学员7/29号和8/1号日历任务--显示的是同一篇课文，查看模板和老师布置的任务并非重复
+        </td></tr>
+                <tr id="comment-header-315579"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/&#20843;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-315579"><td bgcolor="#ffffff">
+            老师端进行预览7/29和8/1号的任务，与学员接收的不一致，以下是8/1和7/29日历的接口及返回
+        </td></tr>
+                <tr id="comment-header-315580"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/&#20843;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-315580"><td bgcolor="#ffffff">
+            curl -H &quot;Host: mf.51tyty.com&quot; -H &quot;DeviceType: 0&quot; -H &quot;AppType: 6&quot; -H &quot;industryType: Education&quot; -H &quot;DeviceUniqueId: 00000000-35b9-a726-0000-000029fa3fb2-com.lingshi.inst.klxt-xaga&quot; -H &quot;InstId: 281487&quot; -H &quot;serverId: 29&quot; -H &quot;uc: TYTY_DEBUG_CHANNEL&quot; -H &quot;AppVersion: 5.1.95.208510&quot; -H &quot;FromAppName: APP&quot; -H &quot;username: 15622152014&quot; -H &quot;lan: ch&quot; -H &quot;Requestuniqueid: 143451_281487_1754276769687_454&quot; -H &quot;timeZone: GMT+08&quot; -H &quot;token: 143451:1817348520:e89d326a-ace2-40b4-bc0d-145a305e2c48:39a07bd455ca6c427341eef6ddca5557:29v&quot; -H &quot;Content-Type: application/json&quot; -H &quot;User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; 22041216C Build/da8f229.0)&quot; --compressed &quot;<a href="https://47.111.108.139/social/services/rest/assignment/V3/Tasks/Query/143451?serino=456&taskType=all&date=2025-08-01">https://47.111.108.139/social/services/rest/assignment/V3/Tasks/Query/143451?serino=456&amp;taskType=all&amp;date=2025-08-01</a>&quot;<br/>
+<br/>
+<br/>
+<br/>
+{<br/>
+	&quot;code&quot;: &quot;0&quot;,<br/>
+	&quot;message&quot;: &quot;Success&quot;,<br/>
+	&quot;assignments&quot;: [{<br/>
+		&quot;title&quot;: &quot;今日任务&quot;,<br/>
+		&quot;desc&quot;: &quot;历史任务&quot;,<br/>
+		&quot;duration&quot;: &quot;1&quot;,<br/>
+		&quot;hasTemplate&quot;: &quot;false&quot;,<br/>
+		&quot;hidden&quot;: &quot;false&quot;,<br/>
+		&quot;index&quot;: &quot;0&quot;,<br/>
+		&quot;assignmentId&quot;: &quot;50&quot;,<br/>
+		&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+		&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+		&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+		&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+		&quot;taskStatus&quot;: &quot;doing&quot;,<br/>
+		&quot;elements&quot;: [{<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542249&quot;,<br/>
+				&quot;title&quot;: &quot;02-Abigail Adams&quot;,<br/>
+				&quot;taskType&quot;: &quot;read&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878421&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2017/06/07/7j3f4rrtws21dmbv2nk9rja7ajhtzzt7.jpg">https://res.iiiview.net/ugc/file/2017/06/07/7j3f4rrtws21dmbv2nk9rja7ajhtzzt7.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;8&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;2&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754064512000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878421&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542249&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;87403879&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754063600000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听看&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876016&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211953&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-22&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-09&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-22 09:06:17&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-09 23:59:57&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542248&quot;,<br/>
+				&quot;title&quot;: &quot;01-A Landforms Adventure&quot;,<br/>
+				&quot;taskType&quot;: &quot;record&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878420&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg">https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;8&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;1&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754061157000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878420&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542248&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;record&quot;,<br/>
+				&quot;answerId&quot;: &quot;87399984&quot;,<br/>
+				&quot;mediaId&quot;: &quot;43341007&quot;,<br/>
+				&quot;contentId&quot;: &quot;43341007&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060362000&quot;,<br/>
+				&quot;score&quot;: &quot;31&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;textReviewId&quot;: &quot;27339562&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-录音、QUIZ阅读题 舒燕&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876019&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211954&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-23&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-10&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-23 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-10 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542247&quot;,<br/>
+				&quot;title&quot;: &quot;01-A Landforms Adventure&quot;,<br/>
+				&quot;taskType&quot;: &quot;exam&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878420&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg">https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;8&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;1&quot;,<br/>
+				&quot;contentType&quot;: &quot;Exam&quot;,<br/>
+				&quot;examContentType&quot;: &quot;Normal&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754061157000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;examUrl&quot;: &quot;<a href="https://xt.51tyty.com/index.php/exam/index/index?examcode=643093f00f53a7923b994a0571428de9&serverId=29&ct=Exam&lessonId=26878420">https://xt.51tyty.com/index.php/exam/index/index?examcode=643093f00f53a7923b994a0571428de9&amp;serverId=29&amp;ct=Exam&amp;lessonId=26878420</a>&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878420&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;examCode&quot;: &quot;643093f00f53a7923b994a0571428de9&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;1&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542247&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;exam&quot;,<br/>
+				&quot;answerId&quot;: &quot;87398277&quot;,<br/>
+				&quot;mediaId&quot;: &quot;3883014&quot;,<br/>
+				&quot;contentId&quot;: &quot;3883014&quot;,<br/>
+				&quot;contentType&quot;: &quot;Exam&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754059594000&quot;,<br/>
+				&quot;score&quot;: &quot;100&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;1&quot;,<br/>
+			&quot;textReviewId&quot;: &quot;27339563&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-录音、QUIZ阅读题 舒燕&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876019&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211955&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;true&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-23&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-10&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-23 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-10 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542246&quot;,<br/>
+				&quot;title&quot;: &quot;43-Empire State Building&quot;,<br/>
+				&quot;taskType&quot;: &quot;listen&quot;,<br/>
+				&quot;lessonId&quot;: &quot;30382475&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2024/6/30/27e6e9cdde274814a9fe402ee5267389.jpg">https://res.iiiview.net/ugc/file/2024/6/30/27e6e9cdde274814a9fe402ee5267389.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;7&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;80&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060425000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;30382475&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542246&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;87399928&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060333000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听力复习&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876021&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;false&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211956&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-24&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-07&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-24 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-07 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542245&quot;,<br/>
+				&quot;title&quot;: &quot;41-A New Way of Speaking&quot;,<br/>
+				&quot;taskType&quot;: &quot;listen&quot;,<br/>
+				&quot;lessonId&quot;: &quot;30382474&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2020/8/7/acaf6c6ef4ed41f08a474ff28cae48bc.jpg">https://res.iiiview.net/ugc/file/2020/8/7/acaf6c6ef4ed41f08a474ff28cae48bc.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;7&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;79&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060425000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;30382474&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542245&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;87399938&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060338000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听力复习&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876022&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;false&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211957&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-25&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-08&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-25 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-08 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542244&quot;,<br/>
+				&quot;title&quot;: &quot;51-Why I&#39;m Late Today&quot;,<br/>
+				&quot;taskType&quot;: &quot;listen&quot;,<br/>
+				&quot;lessonId&quot;: &quot;30382473&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2020/8/5/acd06887057d43998b519127c362d9e6.jpg">https://res.iiiview.net/ugc/file/2020/8/5/acd06887057d43998b519127c362d9e6.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;7&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;78&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060425000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-08-01 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-08-01 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;30382473&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;186542244&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;87399945&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1754060341000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-08-01&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听力复习&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876023&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;false&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211958&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-26&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-09&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-26 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-09 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}],<br/>
+		&quot;toUser&quot;: {<br/>
+			&quot;userId&quot;: &quot;143451&quot;,<br/>
+			&quot;serverId&quot;: &quot;29&quot;,<br/>
+			&quot;nickname&quot;: &quot;Eva&quot;,<br/>
+			&quot;username&quot;: &quot;15622152014&quot;,<br/>
+			&quot;nicknameNote&quot;: &quot;Eva.舒燕&quot;,<br/>
+			&quot;photourl&quot;: &quot;<a href="https://res.iiiview.net/photo/20241025/143451/6F04AD5D-8C48-4ACC-B8B6-11C709D6DF30.png">https://res.iiiview.net/photo/20241025/143451/6F04AD5D-8C48-4ACC-B8B6-11C709D6DF30.png</a>&quot;,<br/>
+			&quot;instId&quot;: &quot;281487&quot;,<br/>
+			&quot;role&quot;: &quot;groupMember&quot;,<br/>
+			&quot;mobile&quot;: &quot;15622152014&quot;,<br/>
+			&quot;txImUserId&quot;: &quot;29_143451&quot;,<br/>
+			&quot;gender&quot;: &quot;1&quot;,<br/>
+			&quot;lastAccessTime&quot;: &quot;0&quot;,<br/>
+			&quot;hxUsername&quot;: &quot;mf_143451&quot;,<br/>
+			&quot;isvalidate&quot;: &quot;true&quot;,<br/>
+			&quot;activeDate&quot;: &quot;2023-06-08 21:17:43&quot;,<br/>
+			&quot;location&quot;: {<br/>
+				&quot;country&quot;: &quot;中国&quot;,<br/>
+				&quot;province&quot;: &quot;&quot;,<br/>
+				&quot;city&quot;: &quot;广州市&quot;,<br/>
+				&quot;area&quot;: &quot;广州市&quot;,<br/>
+				&quot;longitude&quot;: &quot;113.52351254174151&quot;,<br/>
+				&quot;latitude&quot;: &quot;23.33334658666997&quot;<br/>
+			},<br/>
+			&quot;startDate&quot;: &quot;2023-06-08&quot;,<br/>
+			&quot;endDate&quot;: &quot;2025-12-07&quot;,<br/>
+			&quot;awarded&quot;: &quot;0&quot;,<br/>
+			&quot;remark&quot;: &quot;Eva.舒燕2023.6.8SVIP年卡,推荐JACKY2个阅读年卡，送2个月。7.20推荐欢买阅读年卡送一个月，7.23推荐傀儡送1个月，推荐小易送一个月，金宏，9.26买799&quot;,<br/>
+			&quot;headUserId&quot;: &quot;15297&quot;,<br/>
+			&quot;instCode&quot;: &quot;&quot;,<br/>
+			&quot;roleId&quot;: &quot;0&quot;,<br/>
+			&quot;enabled&quot;: &quot;true&quot;,<br/>
+			&quot;age&quot;: &quot;0&quot;,<br/>
+			&quot;expiredStatus&quot;: &quot;0&quot;,<br/>
+			&quot;level&quot;: &quot;L3&quot;,<br/>
+			&quot;dateModified&quot;: &quot;2025-08-04 11:02:01&quot;,<br/>
+			&quot;campusId&quot;: &quot;1639&quot;,<br/>
+			&quot;campusTitle&quot;: &quot;爱阅英语&quot;,<br/>
+			&quot;campusShortTitle&quot;: &quot;&quot;,<br/>
+			&quot;campusType&quot;: &quot;main_campus&quot;,<br/>
+			&quot;inInstCreateDate&quot;: &quot;2023-06-08 11:39:59&quot;,<br/>
+			&quot;isShadowUser&quot;: &quot;0&quot;,<br/>
+			&quot;userType&quot;: &quot;0&quot;,<br/>
+			&quot;isIntention&quot;: &quot;false&quot;,<br/>
+			&quot;studentOrigin&quot;: &quot;0&quot;,<br/>
+			&quot;flower&quot;: &quot;0&quot;,<br/>
+			&quot;userIntroduction&quot;: &quot;&quot;,<br/>
+			&quot;hasForeignTeacher&quot;: &quot;false&quot;,<br/>
+			&quot;hasAvailableTime&quot;: &quot;false&quot;,<br/>
+			&quot;extRole&quot;: &quot;unknown&quot;,<br/>
+			&quot;addStudentMaxNum&quot;: &quot;999999&quot;,<br/>
+			&quot;userIntroductionUrl&quot;: &quot;&quot;,<br/>
+			&quot;officialAccounts&quot;: &quot;true&quot;,<br/>
+			&quot;school&quot;: &quot;天誉小学&quot;,<br/>
+			&quot;grade&quot;: &quot;小班&quot;,<br/>
+			&quot;jztUserType&quot;: &quot;1&quot;,<br/>
+			&quot;ishomeschoolAccount&quot;: &quot;false&quot;,<br/>
+			&quot;isExampleAccount&quot;: &quot;false&quot;,<br/>
+			&quot;reservationId&quot;: &quot;0&quot;,<br/>
+			&quot;mainInstId&quot;: &quot;0&quot;,<br/>
+			&quot;hasAddForeignTeacher&quot;: &quot;false&quot;,<br/>
+			&quot;foreignTeacherShadowUserId&quot;: &quot;0&quot;,<br/>
+			&quot;teacher&quot;: &quot;false&quot;,<br/>
+			&quot;creater&quot;: &quot;false&quot;,<br/>
+			&quot;charger&quot;: &quot;false&quot;<br/>
+		},<br/>
+		&quot;total&quot;: &quot;0&quot;,<br/>
+		&quot;done&quot;: &quot;0&quot;,<br/>
+		&quot;dailySignCount&quot;: &quot;0&quot;,<br/>
+		&quot;maxDurationDays&quot;: &quot;0&quot;,<br/>
+		&quot;expired&quot;: &quot;true&quot;<br/>
+	}],<br/>
+	&quot;startPos&quot;: &quot;0&quot;,<br/>
+	&quot;count&quot;: &quot;1&quot;,<br/>
+	&quot;total&quot;: &quot;0&quot;,<br/>
+	&quot;completedSignStudentCount&quot;: &quot;0&quot;,<br/>
+	&quot;requiredSignStudentCount&quot;: &quot;0&quot;,<br/>
+	&quot;workcellTaskTotalCount&quot;: &quot;0&quot;,<br/>
+	&quot;completedWorkcellTaskTotalCount&quot;: &quot;0&quot;<br/>
+}
+        </td></tr>
+                <tr id="comment-header-315581"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/&#20843;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-315581"><td bgcolor="#ffffff">
+            curl -H &quot;Host: mf.51tyty.com&quot; -H &quot;DeviceType: 0&quot; -H &quot;AppType: 6&quot; -H &quot;industryType: Education&quot; -H &quot;DeviceUniqueId: 00000000-35b9-a726-0000-000029fa3fb2-com.lingshi.inst.klxt-xaga&quot; -H &quot;InstId: 281487&quot; -H &quot;serverId: 29&quot; -H &quot;uc: TYTY_DEBUG_CHANNEL&quot; -H &quot;AppVersion: 5.1.95.208510&quot; -H &quot;FromAppName: APP&quot; -H &quot;username: 15622152014&quot; -H &quot;lan: ch&quot; -H &quot;Requestuniqueid: 143451_281487_1754276784464_455&quot; -H &quot;timeZone: GMT+08&quot; -H &quot;token: 143451:1817348520:e89d326a-ace2-40b4-bc0d-145a305e2c48:39a07bd455ca6c427341eef6ddca5557:29v&quot; -H &quot;Content-Type: application/json&quot; -H &quot;User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; 22041216C Build/da8f229.0)&quot; --compressed &quot;<a href="https://47.111.108.139/social/services/rest/assignment/V3/Tasks/Query/143451?serino=457&taskType=all&date=2025-07-29">https://47.111.108.139/social/services/rest/assignment/V3/Tasks/Query/143451?serino=457&amp;taskType=all&amp;date=2025-07-29</a>&quot;<br/>
+<br/>
+{<br/>
+	&quot;code&quot;: &quot;0&quot;,<br/>
+	&quot;message&quot;: &quot;Success&quot;,<br/>
+	&quot;assignments&quot;: [{<br/>
+		&quot;title&quot;: &quot;今日任务&quot;,<br/>
+		&quot;desc&quot;: &quot;历史任务&quot;,<br/>
+		&quot;duration&quot;: &quot;1&quot;,<br/>
+		&quot;hasTemplate&quot;: &quot;false&quot;,<br/>
+		&quot;hidden&quot;: &quot;false&quot;,<br/>
+		&quot;index&quot;: &quot;0&quot;,<br/>
+		&quot;assignmentId&quot;: &quot;50&quot;,<br/>
+		&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+		&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+		&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+		&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+		&quot;taskStatus&quot;: &quot;doing&quot;,<br/>
+		&quot;elements&quot;: [{<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546825&quot;,<br/>
+				&quot;title&quot;: &quot;02-Abigail Adams&quot;,<br/>
+				&quot;taskType&quot;: &quot;read&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878421&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2017/06/07/7j3f4rrtws21dmbv2nk9rja7ajhtzzt7.jpg">https://res.iiiview.net/ugc/file/2017/06/07/7j3f4rrtws21dmbv2nk9rja7ajhtzzt7.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;8&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;2&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753799004000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878421&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546825&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;86921090&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753798015000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听看&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876016&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211953&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-22&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-09&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-22 09:06:17&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-09 23:59:57&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546824&quot;,<br/>
+				&quot;title&quot;: &quot;01-A Landforms Adventure&quot;,<br/>
+				&quot;taskType&quot;: &quot;record&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878420&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg">https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;8&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;1&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753802187000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878420&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546824&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;record&quot;,<br/>
+				&quot;answerId&quot;: &quot;86931896&quot;,<br/>
+				&quot;mediaId&quot;: &quot;43156219&quot;,<br/>
+				&quot;contentId&quot;: &quot;43156219&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753801494000&quot;,<br/>
+				&quot;score&quot;: &quot;37&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-录音、QUIZ阅读题 舒燕&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876019&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211954&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-23&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-10&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-23 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-10 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546823&quot;,<br/>
+				&quot;title&quot;: &quot;01-A Landforms Adventure&quot;,<br/>
+				&quot;taskType&quot;: &quot;exam&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878420&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg">https://res.iiiview.net/ugc/file/2017/06/07/ixt0svirhfgjvhme43dnp6e98gr9lot9.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;8&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;1&quot;,<br/>
+				&quot;contentType&quot;: &quot;Exam&quot;,<br/>
+				&quot;examContentType&quot;: &quot;Normal&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753802101000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;examUrl&quot;: &quot;<a href="https://xt.51tyty.com/index.php/exam/index/index?examcode=643093f00f53a7923b994a0571428de9&serverId=29&ct=Exam&lessonId=26878420">https://xt.51tyty.com/index.php/exam/index/index?examcode=643093f00f53a7923b994a0571428de9&amp;serverId=29&amp;ct=Exam&amp;lessonId=26878420</a>&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878420&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;examCode&quot;: &quot;643093f00f53a7923b994a0571428de9&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;1&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546823&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;exam&quot;,<br/>
+				&quot;answerId&quot;: &quot;86930817&quot;,<br/>
+				&quot;mediaId&quot;: &quot;3853521&quot;,<br/>
+				&quot;contentId&quot;: &quot;3853521&quot;,<br/>
+				&quot;contentType&quot;: &quot;Exam&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753800907000&quot;,<br/>
+				&quot;score&quot;: &quot;70&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;1&quot;,<br/>
+			&quot;textReviewId&quot;: &quot;27236618&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-录音、QUIZ阅读题 舒燕&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876019&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211955&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-23&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-10&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-23 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-10 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546822&quot;,<br/>
+				&quot;title&quot;: &quot;77-Machu Picchu&quot;,<br/>
+				&quot;taskType&quot;: &quot;listen&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878419&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2020/8/18/7eb833e3eb114e1b9d97a5f379b113f0.jpg">https://res.iiiview.net/ugc/file/2020/8/18/7eb833e3eb114e1b9d97a5f379b113f0.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;7&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;77&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753776814000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878419&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546822&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;86846025&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753776104000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听力复习&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876021&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211956&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-24&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-07&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-24 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-07 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546820&quot;,<br/>
+				&quot;title&quot;: &quot;76-Tokyo Imperial Palace&quot;,<br/>
+				&quot;taskType&quot;: &quot;listen&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878418&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2020/8/7/c97ce7f826fa44108c06ec7f8b1add5f.jpg">https://res.iiiview.net/ugc/file/2020/8/7/c97ce7f826fa44108c06ec7f8b1add5f.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;7&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;76&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753776815000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878418&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546820&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;86846604&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753776398000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听力复习&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876022&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211957&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-25&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-08&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-25 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-08 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}, {<br/>
+			&quot;mediaId&quot;: &quot;28609320&quot;,<br/>
+			&quot;contentId&quot;: &quot;28609320&quot;,<br/>
+			&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+			&quot;contentType&quot;: &quot;EduBook&quot;,<br/>
+			&quot;title&quot;: &quot;RAZ G-P(阅读营版）新&quot;,<br/>
+			&quot;task&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546819&quot;,<br/>
+				&quot;title&quot;: &quot;75-The Legend Of the Giant&#39;s Causeway&quot;,<br/>
+				&quot;taskType&quot;: &quot;listen&quot;,<br/>
+				&quot;lessonId&quot;: &quot;26878417&quot;,<br/>
+				&quot;lessonVersion&quot;: &quot;4&quot;,<br/>
+				&quot;pageAssign&quot;: &quot;false&quot;,<br/>
+				&quot;snapShotUrl&quot;: &quot;<a href="https://res.iiiview.net/ugc/file/2020/8/7/ba2660f7b4144007835670b82068d403.jpg">https://res.iiiview.net/ugc/file/2020/8/7/ba2660f7b4144007835670b82068d403.jpg</a>&quot;,<br/>
+				&quot;chapterIndex&quot;: &quot;7&quot;,<br/>
+				&quot;lessonIndex&quot;: &quot;75&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753797637000&quot;,<br/>
+				&quot;cycle&quot;: &quot;1&quot;,<br/>
+				&quot;completionType&quot;: &quot;wordChallenge&quot;,<br/>
+				&quot;voiceAssess&quot;: &quot;ok&quot;,<br/>
+				&quot;pointRead&quot;: &quot;none&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;endDate&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;startDateTime&quot;: &quot;2025-07-29 00:00:00&quot;,<br/>
+				&quot;endDateTime&quot;: &quot;2025-07-29 23:59:59&quot;,<br/>
+				&quot;sourceContentType&quot;: &quot;EduLesson&quot;,<br/>
+				&quot;sourceContentId&quot;: &quot;26878417&quot;,<br/>
+				&quot;taskChannel&quot;: &quot;teacher&quot;,<br/>
+				&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+				&quot;supportStatus&quot;: &quot;0&quot;,<br/>
+				&quot;userDoneCount&quot;: &quot;0&quot;,<br/>
+				&quot;userTotalCount&quot;: &quot;0&quot;,<br/>
+				&quot;taskSupportStatus&quot;: &quot;none&quot;,<br/>
+				&quot;workSupportStatus&quot;: &quot;need&quot;<br/>
+			},<br/>
+			&quot;answer&quot;: {<br/>
+				&quot;taskId&quot;: &quot;185546819&quot;,<br/>
+				&quot;taskStatus&quot;: &quot;done&quot;,<br/>
+				&quot;answerType&quot;: &quot;status&quot;,<br/>
+				&quot;answerId&quot;: &quot;86914956&quot;,<br/>
+				&quot;mediaId&quot;: &quot;0&quot;,<br/>
+				&quot;contentId&quot;: &quot;0&quot;,<br/>
+				&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+				&quot;contentTimestamp&quot;: &quot;1753796765000&quot;,<br/>
+				&quot;dateDone&quot;: &quot;2025-07-29&quot;,<br/>
+				&quot;redo&quot;: &quot;false&quot;<br/>
+			},<br/>
+			&quot;sortWeight&quot;: &quot;0&quot;,<br/>
+			&quot;redoStatus&quot;: &quot;none&quot;,<br/>
+			&quot;workcellTitle&quot;: &quot;【RAZ LMN】230天打卡-听力复习&quot;,<br/>
+			&quot;taskTitle&quot;: &quot;01-A Hero&#39;s Name&quot;,<br/>
+			&quot;checkStatus&quot;: &quot;check&quot;,<br/>
+			&quot;shareId&quot;: &quot;118876023&quot;,<br/>
+			&quot;workcellType&quot;: &quot;serial&quot;,<br/>
+			&quot;shared&quot;: &quot;false&quot;,<br/>
+			&quot;openType&quot;: &quot;open_1&quot;,<br/>
+			&quot;hasGate&quot;: &quot;true&quot;,<br/>
+			&quot;workcellShareSettingId&quot;: &quot;23211958&quot;,<br/>
+			&quot;hasRelated&quot;: &quot;false&quot;,<br/>
+			&quot;commentNum&quot;: &quot;0&quot;,<br/>
+			&quot;commentTotal&quot;: &quot;0&quot;,<br/>
+			&quot;answerNum&quot;: &quot;0&quot;,<br/>
+			&quot;answerTotal&quot;: &quot;0&quot;,<br/>
+			&quot;checkNum&quot;: &quot;0&quot;,<br/>
+			&quot;checkTotal&quot;: &quot;0&quot;,<br/>
+			&quot;hasDot&quot;: &quot;true&quot;,<br/>
+			&quot;textRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;audioRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;postilRedDotShow&quot;: &quot;false&quot;,<br/>
+			&quot;urgeWorkcellDate&quot;: &quot;&quot;,<br/>
+			&quot;hasSupportLateTask&quot;: &quot;true&quot;,<br/>
+			&quot;projectType&quot;: &quot;none&quot;,<br/>
+			&quot;trainWorkCellStatus&quot;: &quot;published&quot;,<br/>
+			&quot;workcellShareStartDate&quot;: &quot;2025-02-26&quot;,<br/>
+			&quot;workcellShareEndDate&quot;: &quot;2025-10-09&quot;,<br/>
+			&quot;workcellShareStartDateTime&quot;: &quot;2025-02-26 00:00:00&quot;,<br/>
+			&quot;workcellShareEndDateTime&quot;: &quot;2025-10-09 23:59:00&quot;,<br/>
+			&quot;hasDownload&quot;: &quot;false&quot;<br/>
+		}],<br/>
+		&quot;toUser&quot;: {<br/>
+			&quot;userId&quot;: &quot;143451&quot;,<br/>
+			&quot;serverId&quot;: &quot;29&quot;,<br/>
+			&quot;nickname&quot;: &quot;Eva&quot;,<br/>
+			&quot;username&quot;: &quot;15622152014&quot;,<br/>
+			&quot;nicknameNote&quot;: &quot;Eva.舒燕&quot;,<br/>
+			&quot;photourl&quot;: &quot;<a href="https://res.iiiview.net/photo/20241025/143451/6F04AD5D-8C48-4ACC-B8B6-11C709D6DF30.png">https://res.iiiview.net/photo/20241025/143451/6F04AD5D-8C48-4ACC-B8B6-11C709D6DF30.png</a>&quot;,<br/>
+			&quot;instId&quot;: &quot;281487&quot;,<br/>
+			&quot;role&quot;: &quot;groupMember&quot;,<br/>
+			&quot;mobile&quot;: &quot;15622152014&quot;,<br/>
+			&quot;txImUserId&quot;: &quot;29_143451&quot;,<br/>
+			&quot;gender&quot;: &quot;1&quot;,<br/>
+			&quot;lastAccessTime&quot;: &quot;0&quot;,<br/>
+			&quot;hxUsername&quot;: &quot;mf_143451&quot;,<br/>
+			&quot;isvalidate&quot;: &quot;true&quot;,<br/>
+			&quot;activeDate&quot;: &quot;2023-06-08 21:17:43&quot;,<br/>
+			&quot;location&quot;: {<br/>
+				&quot;country&quot;: &quot;中国&quot;,<br/>
+				&quot;province&quot;: &quot;&quot;,<br/>
+				&quot;city&quot;: &quot;广州市&quot;,<br/>
+				&quot;area&quot;: &quot;广州市&quot;,<br/>
+				&quot;longitude&quot;: &quot;113.52351254174151&quot;,<br/>
+				&quot;latitude&quot;: &quot;23.33334658666997&quot;<br/>
+			},<br/>
+			&quot;startDate&quot;: &quot;2023-06-08&quot;,<br/>
+			&quot;endDate&quot;: &quot;2025-12-07&quot;,<br/>
+			&quot;awarded&quot;: &quot;0&quot;,<br/>
+			&quot;remark&quot;: &quot;Eva.舒燕2023.6.8SVIP年卡,推荐JACKY2个阅读年卡，送2个月。7.20推荐欢买阅读年卡送一个月，7.23推荐傀儡送1个月，推荐小易送一个月，金宏，9.26买799&quot;,<br/>
+			&quot;headUserId&quot;: &quot;15297&quot;,<br/>
+			&quot;instCode&quot;: &quot;&quot;,<br/>
+			&quot;roleId&quot;: &quot;0&quot;,<br/>
+			&quot;enabled&quot;: &quot;true&quot;,<br/>
+			&quot;age&quot;: &quot;0&quot;,<br/>
+			&quot;expiredStatus&quot;: &quot;0&quot;,<br/>
+			&quot;level&quot;: &quot;L3&quot;,<br/>
+			&quot;dateModified&quot;: &quot;2025-08-04 11:02:01&quot;,<br/>
+			&quot;campusId&quot;: &quot;1639&quot;,<br/>
+			&quot;campusTitle&quot;: &quot;爱阅英语&quot;,<br/>
+			&quot;campusShortTitle&quot;: &quot;&quot;,<br/>
+			&quot;campusType&quot;: &quot;main_campus&quot;,<br/>
+			&quot;inInstCreateDate&quot;: &quot;2023-06-08 11:39:59&quot;,<br/>
+			&quot;isShadowUser&quot;: &quot;0&quot;,<br/>
+			&quot;userType&quot;: &quot;0&quot;,<br/>
+			&quot;isIntention&quot;: &quot;false&quot;,<br/>
+			&quot;studentOrigin&quot;: &quot;0&quot;,<br/>
+			&quot;flower&quot;: &quot;0&quot;,<br/>
+			&quot;userIntroduction&quot;: &quot;&quot;,<br/>
+			&quot;hasForeignTeacher&quot;: &quot;false&quot;,<br/>
+			&quot;hasAvailableTime&quot;: &quot;false&quot;,<br/>
+			&quot;extRole&quot;: &quot;unknown&quot;,<br/>
+			&quot;addStudentMaxNum&quot;: &quot;999999&quot;,<br/>
+			&quot;userIntroductionUrl&quot;: &quot;&quot;,<br/>
+			&quot;officialAccounts&quot;: &quot;true&quot;,<br/>
+			&quot;school&quot;: &quot;天誉小学&quot;,<br/>
+			&quot;grade&quot;: &quot;小班&quot;,<br/>
+			&quot;jztUserType&quot;: &quot;1&quot;,<br/>
+			&quot;ishomeschoolAccount&quot;: &quot;false&quot;,<br/>
+			&quot;isExampleAccount&quot;: &quot;false&quot;,<br/>
+			&quot;reservationId&quot;: &quot;0&quot;,<br/>
+			&quot;mainInstId&quot;: &quot;0&quot;,<br/>
+			&quot;hasAddForeignTeacher&quot;: &quot;false&quot;,<br/>
+			&quot;foreignTeacherShadowUserId&quot;: &quot;0&quot;,<br/>
+			&quot;teacher&quot;: &quot;false&quot;,<br/>
+			&quot;charger&quot;: &quot;false&quot;,<br/>
+			&quot;creater&quot;: &quot;false&quot;<br/>
+		},<br/>
+		&quot;total&quot;: &quot;0&quot;,<br/>
+		&quot;done&quot;: &quot;0&quot;,<br/>
+		&quot;dailySignCount&quot;: &quot;0&quot;,<br/>
+		&quot;maxDurationDays&quot;: &quot;0&quot;,<br/>
+		&quot;expired&quot;: &quot;true&quot;<br/>
+	}],<br/>
+	&quot;startPos&quot;: &quot;0&quot;,<br/>
+	&quot;count&quot;: &quot;1&quot;,<br/>
+	&quot;total&quot;: &quot;0&quot;,<br/>
+	&quot;completedSignStudentCount&quot;: &quot;0&quot;,<br/>
+	&quot;requiredSignStudentCount&quot;: &quot;0&quot;,<br/>
+	&quot;workcellTaskTotalCount&quot;: &quot;0&quot;,<br/>
+	&quot;completedWorkcellTaskTotalCount&quot;: &quot;0&quot;<br/>
+}
+        </td></tr>
+                <tr id="comment-header-315825"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jjxiao" id="word_commented_jjxiao" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jjxiao">肖嘉俊</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">04/&#20843;&#26376;/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-315825"><td bgcolor="#ffffff">
+            7月31日修改了书前部的内容，导致后面生成task被往前推了3天，之后的新模板不会有该问题
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 16:54:30 CST 2026。
+
+</body>
+</html>

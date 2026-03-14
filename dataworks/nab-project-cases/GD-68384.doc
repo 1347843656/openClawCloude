@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GD-68384] Ai 自动点评的小红花没有加</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.51tyty.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [GD-68384]&nbsp;<a href="https://jira.51tyty.com/browse/GD-68384">Ai 自动点评的小红花没有加</a>
+            <span class="subText">
+               创建日期: 07/&#20108;&#26376;/26                   &nbsp;已更新: 09/&#20108;&#26376;/26
+
+                                                    &nbsp;已解决: 09/&#20108;&#26376;/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>状态:</b></td>
+        <td width="80%">关闭</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>项目:</b></td>
+        <td width="80%"><a href="https://jira.51tyty.com/secure/BrowseProject.jspa?id=10111">客户反馈bug</a></td>
+    </tr>
+
+        <tr>
+            <td><b>模块:</b></td>
+            <td>
+                                        <a title="Android"
+                href="https://jira.51tyty.com/issues/?jql=project%3D10111%20AND%20%22component%22%3D24202%20ORDER%20BY%20priority%20ASC"
+            >Android</a>                        </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>影响版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>修复的版本:</b></td>
+            <td>
+                            无
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>类型:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            缺陷
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>优先级:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                P1
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>报告人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_reporter_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>经办人:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="jkzhang" id="word_assignee_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>解决结果:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Not a bug
+                    </td>
+                    <td bgcolor="#ffffff" colspan="2">&nbsp;</td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>标签:</b>
+        </td>
+        <td id="labels-464104-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            作品页                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>剩余的估算:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            0日
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>耗费时间:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            20分
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>初始预估:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            尚未指定
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>附件:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    3237d881-77ab-4339-82e9-5f82b91d6a59.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    3267cb00-8f12-4291-88de-0079b308b636.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG文件">
+                    3e1728d9-2598-414b-8ff7-63ff1d7e9866.jpg &nbsp;&nbsp;&nbsp;
+                                    <img src="https://jira.51tyty.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG文件">
+                    userDevices.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>业务:</b></td>
+                <td id="customfield_11500-464104-value" class="value" bgcolor="#ffffff" width="80%">    后台二组
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否重现:</b></td>
+                <td id="customfield_10701-464104-value" class="value" bgcolor="#ffffff" width="80%">    否
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构代码:</b></td>
+                <td id="customfield_10500-464104-value" class="value" bgcolor="#ffffff" width="80%">    eworld</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>机构负责人:</b></td>
+                <td id="customfield_10201-464104-value" class="value" bgcolor="#ffffff" width="80%">        <span class="tinylink">        <span class="user-hover" rel="msun" id="user_cf_msun">孙敏</span></span>
+    </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题时间:</b></td>
+                <td id="customfield_11600-464104-value" class="value" bgcolor="#ffffff" width="80%">      2026/02/07
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题账号:</b></td>
+                <td id="customfield_11301-464104-value" class="value" bgcolor="#ffffff" width="80%">      15975401572
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题分类:</b></td>
+                <td id="customfield_11400-464104-value" class="value" bgcolor="#ffffff" width="80%">    功能缺陷
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>问题来源:</b></td>
+                <td id="customfield_13001-464104-value" class="value" bgcolor="#ffffff" width="80%">    内部反馈
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>是否已回复:</b></td>
+                <td id="customfield_13302-464104-value" class="value" bgcolor="#ffffff" width="80%">    没有
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>描述</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            机构代码：eworld <br/>
+账号：15975401572 <br/>
+操作路径/课本位置：<br/>
+实际结果：<br/>
+预期结果：<br/>
+其他说明：<br/>
+<br/>
+运营原话：E+World（eworld）15975401572  Ai 自动点评的小红花没有加
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>注释</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-374486"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374486"><td bgcolor="#ffffff">
+            curl -H &quot;user-agent: Dart/3.3 (dart:io)&quot; -H &quot;instid: 1054743&quot; -H &quot;appversion: 5.2.86.222597&quot; -H &quot;devicecategory: PAD&quot; -H &quot;apptype: 6&quot; -H &quot;content-type: application/json&quot; -H &quot;token: 92137:1833704550:fe5832b4-b0b3-443d-8547-8b03904e6eb0:accbbb3a4f34d56377e0b9c1d08ed1ff:106v&quot; -H &quot;lan: ch&quot; -H &quot;timezone: GMT+08&quot; -H &quot;devicetype: 0&quot; -H &quot;host: nz.51tyty.com&quot; -H &quot;username: admineworld&quot; -H &quot;serverid: 106&quot; -H &quot;fromappname: Android&quot; -H &quot;deviceuniqueid: 0eec1a3a-1cdb-40cd-a2bc-1cf0a2560e95_com.lingshi.flutter.app&quot; --compressed &quot;<a href="https://nz.51tyty.com/social/services/rest/comment/Reviews/20934691?serino=316">https://nz.51tyty.com/social/services/rest/comment/Reviews/20934691?serino=316</a>&quot;
+        </td></tr>
+                <tr id="comment-header-374487"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="syzhang" id="word_commented_syzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=syzhang">张士炎</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374487"><td bgcolor="#ffffff">
+            {<br/>
+	&quot;code&quot;: &quot;0&quot;,<br/>
+	&quot;message&quot;: &quot;Success&quot;,<br/>
+	&quot;review&quot;: {<br/>
+		&quot;id&quot;: &quot;20934691&quot;,<br/>
+		&quot;contentId&quot;: &quot;3229459&quot;,<br/>
+		&quot;contentType&quot;: &quot;EduStory&quot;,<br/>
+		&quot;reviewType&quot;: &quot;text&quot;,<br/>
+		&quot;comment&quot;: &quot;你在朗读\&quot;a dolphin can have two hundred fifty teeth\&quot;时，整体表现不错，只是\&quot;two hundred fifty\&quot;的发音稍显生硬。在读\&quot;a sand tiger shark can have ninety six teeth\&quot;时，语调较为平稳，但要注意\&quot;ninety six\&quot;的连读。而\&quot;how many teeth do you have\&quot;这句，发音清晰，语调自然。但\&quot;how many teeth\&quot;这句，发音略显犹豫，需加强练习。老师在这里奖励你15朵小红花，希望你能够继续保持。&quot;,<br/>
+		&quot;user&quot;: {<br/>
+			&quot;userId&quot;: &quot;108761&quot;,<br/>
+			&quot;serverId&quot;: &quot;106&quot;,<br/>
+			&quot;nickname&quot;: &quot;Lingda&quot;,<br/>
+			&quot;username&quot;: &quot;eworld18819447686&quot;,<br/>
+			&quot;photourl&quot;: &quot;&quot;,<br/>
+			&quot;instId&quot;: &quot;1054743&quot;,<br/>
+			&quot;role&quot;: &quot;groupTeacher&quot;,<br/>
+			&quot;mobile&quot;: &quot;18819447686&quot;,<br/>
+			&quot;txImUserId&quot;: &quot;106_108761&quot;,<br/>
+			&quot;gender&quot;: &quot;-1&quot;,<br/>
+			&quot;lastAccessTime&quot;: &quot;0&quot;,<br/>
+			&quot;hxUsername&quot;: &quot;nz_108761&quot;,<br/>
+			&quot;isvalidate&quot;: &quot;true&quot;,<br/>
+			&quot;activeDate&quot;: &quot;2025-12-24 13:41:13&quot;,<br/>
+			&quot;location&quot;: {<br/>
+				&quot;province&quot;: &quot;广东省&quot;,<br/>
+				&quot;city&quot;: &quot;广州市&quot;,<br/>
+				&quot;area&quot;: &quot;白云区&quot;,<br/>
+				&quot;longitude&quot;: &quot;0.0&quot;,<br/>
+				&quot;latitude&quot;: &quot;0.0&quot;<br/>
+			},<br/>
+			&quot;startDate&quot;: &quot;2025-12-24&quot;,<br/>
+			&quot;endDate&quot;: &quot;2099-12-31&quot;,<br/>
+			&quot;awarded&quot;: &quot;0&quot;,<br/>
+			&quot;headUserId&quot;: &quot;92137&quot;,<br/>
+			&quot;instCode&quot;: &quot;&quot;,<br/>
+			&quot;roleId&quot;: &quot;0&quot;,<br/>
+			&quot;enabled&quot;: &quot;true&quot;,<br/>
+			&quot;age&quot;: &quot;0&quot;,<br/>
+			&quot;expiredStatus&quot;: &quot;0&quot;,<br/>
+			&quot;dateModified&quot;: &quot;2026-02-07 18:11:34&quot;,<br/>
+			&quot;campusId&quot;: &quot;5017&quot;,<br/>
+			&quot;campusTitle&quot;: &quot;E World&quot;,<br/>
+			&quot;campusShortTitle&quot;: &quot;&quot;,<br/>
+			&quot;campusType&quot;: &quot;main_campus&quot;,<br/>
+			&quot;inInstCreateDate&quot;: &quot;2025-12-24 13:32:01&quot;,<br/>
+			&quot;isShadowUser&quot;: &quot;0&quot;,<br/>
+			&quot;userType&quot;: &quot;0&quot;,<br/>
+			&quot;isIntention&quot;: &quot;false&quot;,<br/>
+			&quot;studentOrigin&quot;: &quot;0&quot;,<br/>
+			&quot;flower&quot;: &quot;0&quot;,<br/>
+			&quot;userIntroduction&quot;: &quot;&quot;,<br/>
+			&quot;hasForeignTeacher&quot;: &quot;false&quot;,<br/>
+			&quot;hasAvailableTime&quot;: &quot;false&quot;,<br/>
+			&quot;extRole&quot;: &quot;unknown&quot;,<br/>
+			&quot;addStudentMaxNum&quot;: &quot;999999&quot;,<br/>
+			&quot;userIntroductionUrl&quot;: &quot;&quot;,<br/>
+			&quot;officialAccounts&quot;: &quot;false&quot;,<br/>
+			&quot;jztUserType&quot;: &quot;1&quot;,<br/>
+			&quot;ishomeschoolAccount&quot;: &quot;false&quot;,<br/>
+			&quot;isExampleAccount&quot;: &quot;false&quot;,<br/>
+			&quot;reservationId&quot;: &quot;0&quot;,<br/>
+			&quot;mainInstId&quot;: &quot;0&quot;,<br/>
+			&quot;hasAddForeignTeacher&quot;: &quot;false&quot;,<br/>
+			&quot;foreignTeacherShadowUserId&quot;: &quot;0&quot;,<br/>
+			&quot;charger&quot;: &quot;false&quot;,<br/>
+			&quot;teacher&quot;: &quot;false&quot;,<br/>
+			&quot;creater&quot;: &quot;false&quot;<br/>
+		},<br/>
+		&quot;date&quot;: &quot;2026-02-07 05:19:03&quot;,<br/>
+		&quot;redDotIsShow&quot;: &quot;false&quot;,<br/>
+		&quot;fromAiComment&quot;: &quot;false&quot;<br/>
+	}<br/>
+}
+        </td></tr>
+                <tr id="comment-header-374504"><td bgcolor="#f0f0f0">
+            评论于 
+                                                        <a class="user-hover" rel="jkzhang" id="word_commented_jkzhang" href="https://jira.51tyty.com/secure/ViewProfile.jspa?name=jkzhang">张金凯</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">09/&#20108;&#26376;/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-374504"><td bgcolor="#ffffff">
+            02-06 22:09:27<br/>
+已超过今日获取小红花数上限
+        </td></tr>
+            </table>
+肖嘉俊 通过JIRA 7.3.8#73019-sha1:94e8771b8094eef96c119ec22b8e8868d286fa88 生成于 Fri Mar 13 17:12:14 CST 2026。
+
+</body>
+</html>
